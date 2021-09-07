@@ -1,0 +1,11 @@
+<head>
+  <link rel="preload" href="/makerspace.css" as="style" onload="this.rel='stylesheet'">
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="{{ .Description }}" />
+  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+  <link rel="canonical" href="{{ .Permalink }}" />
+  <link href="/makerspace.css" rel='stylesheet' type='text/css' />
+  {{ partial "hugo_seo.html" . }}
+</head>

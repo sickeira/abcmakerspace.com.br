@@ -1,0 +1,71 @@
+baseurl = "https://abcmakerspace.com.br/"
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
+title = "ABC Makerspace"
+copyright = "© 2021. ABC Makerspace. All rights reserved."
+author = "ABC Makerspace"
+# Shown in the side menu
+paginate = 20
+theme = "makerspace-theme"
+enableRobotsTXT = true
+description = "Um lugar para divulgar conhecimento"
+canonifyurls = true
+disableHugoGeneratorInject = true
+
+[taxonomies]
+  category = "categorias"
+  tag = "tags"
+
+[indexes]
+  category = "categorias"
+  tag = "tags"
+  topic = "topicos"
+
+[params]
+  ISO8601 = "2006-01-02T15:04:05JST"
+  highlightjs = "androidstudio"
+  highlightjs_extra_languages = ["go","x86asm"]
+  googleAnalytics = "UA-80761879-1"
+  author = "ABC Makerspace"
+	locale = "pt-br"
+	# Shown in the home page
+	subtitle = "Um lugar para divulgar conhecimento"
+	brand = "ABC Makerspace"
+	dateFormat = "2006-01-02"
+    PostsListDescription = ""
+    description = ""
+  # Shown in the home page
+  [params.publisher]
+    name = "ABC Makerspace"
+
+    [params.publisher.logo]
+      url = "/logo.png"
+      width = 600
+      height = 60
+    
+    [params.logo]
+      url = "/logo.png"
+      width = 600
+      height = 60
+    
+    [params.image]
+      url = "/cover.png"
+      width = 800
+      height = 600
+
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    weight = 1
+    identifier = "home"
+    url = "/"
+
+[build]
+  publish = "public"
+  command = "hugo --minify"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "RSS"]
+
