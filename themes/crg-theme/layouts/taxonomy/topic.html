@@ -1,9 +1,0 @@
-{{ partial "header.html" . }}
-<h1>[{{ .Title }}]</h1>
-{{ .Content }}
-<ul>
-{{ range .Pages }}
-{{ .Render "li" }}
-{{ end }}
-</ul>
-{{ partial "footer.html" . }}
