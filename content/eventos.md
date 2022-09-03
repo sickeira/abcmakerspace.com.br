@@ -1,5 +1,6 @@
-[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
-________________________________________
++++ date = "2022-09-03T16:24:07-03:00" title = "Histórico dos eventos do ABC Makerspace" description = "Nossas visitas e participações em eventos de tecnologia em geral." tags = ["evento"]
+
++++
 
 # Eventos
 
@@ -99,13 +100,4 @@ ________________________________________
 # Eventos futuros que estamos confirmados
 
 [Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/). 
-
-Nos acompanhe pelas redes sociais para saaber mais.
-________________________________________
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)  |
-
 
