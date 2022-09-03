@@ -1,5 +1,6 @@
-[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
-_______________________________________________
++++ date = "2022-09-03T16:24:07-01:00" title = "História da criação do ABC Makerspace" description = "Da ideia original, realização,atividades, frequentadores, WikiLab até os dias atuais." tags = ["história", "histórico" ]
+
++++
 # História do ABC Makerspace
 
 # A ideia
@@ -49,12 +50,6 @@ Assim como todo o mundo deixamos de nos reunir presencialmente e fizemos alguns 
 [site antigo](http://abcmakerspace.github.io/)
 
 _______________________________________________
-Nos acompanhem pelas midias sociais:
 
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)  |
 
 
