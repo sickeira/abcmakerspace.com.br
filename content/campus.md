@@ -1,7 +1,7 @@
 +++
 date = "2022-09-03T16:24:07-03:00"
-title = "Muitas confusões na Campus, veja hoje na sessão da tarde."
-description = "Nossos herois aprontão muitas confusões na campus"
+title = "Histórico das participações do ABC Makerspace na Campus"
+description = "Nossas visitas e participações na Campus Party SP"
 tags = ["evento", "campusparty", "CPBR1"]
 
 +++
