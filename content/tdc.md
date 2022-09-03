@@ -1,5 +1,8 @@
-[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
-________________________________________
++++ date = "2022-09-03T16:24:07-03:00" title = "Histórico das participações do ABC Makerspace na Campus" description = "Nossas visitas e participações no TDC SP (The Developer's Conference)" tags = ["evento", "#thedevconf", "tdv"]
+
++++
+# The Developer's Conference
+
 O TDC é uma Plataforma de Inovação Aberta focada no desenvolvimento do ecossistema de tecnologia brasileiro através de eventos híbridos e online.
 Participamos de algumas edições da [The Developer's Conference](https://thedevconf.com/tdc/2022/index.html) em São Paulo, sempre com uma mesa para divulgar o [ABC Makerspace](https://abcmakerspace.com.br/) na área de 
 
@@ -35,14 +38,3 @@ Aproveitamos o espaço no [TDC 2017](https://thedevconf.com/tdc/2017/saopaulo/tr
 
 [Foto 1](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911579405776070/?type=3)//[Foto 2](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911579199109424/?type=3)//[Foto 3](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911577559109588/?type=3)//[Foto 4](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911575209109823/?type=3)//[Foto 5](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911572675776743/?type=3)//[Foto 6](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911572559110088/?type=3)
 ________________________________________
-
-Nos acompanhe pelas redes sociais para saaber mais.
-________________________________________
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)  |
-
-
-
