@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+<h1>[{{ .Title }}]</h1>
+{{ .Content }}
+{{ partial "nav_all_tags.html" . }}
+<ul>
+{{ range .Pages }}
+{{ .Render "li" }}
+{{ end }}
+</ul>
+{{ partial "footer.html" . }}
