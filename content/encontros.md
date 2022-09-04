@@ -1,3 +1,14 @@
++++ 
+date = "2022-09-03T02:24:07-01:00" 
+title = "História da criação do ABC Makerspace" 
+date = "2022-09-03T01:24:07-01:00" 
+title = "Histórico dos encontros no ABC Makerspace" 
+description = "Indice dos encontros realizados no ABC Makerspace." 
+tags = ["encontros"]
+
++++
+
+
 ## Encontros
 Para facilitar a pesquisa dos históricos de nossos encontros registrados, vamos dividir os encontros em:
 
@@ -8,9 +19,4 @@ E nos encontros fixos deixaremos o histórico dos que aconteceram com alguma "pe
 ## 2022
 Esperamos retornar em breve com essas atividades, assim que liberado o acesso ao [Wikilab](https://www.facebook.com/wikilab.abc/) ou conseguirmos outro local.
 
-_________________________________________________
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)  |
+
