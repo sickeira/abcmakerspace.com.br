@@ -1,8 +1,9 @@
-[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
-________________________________________
++++ date = "2022-09-03T17:32:07-03:00" title = "Histórico das participações do ABC Makerspace nos Arduino Day" description = "Nossas visitas e participações no Arduino Day" tags = ["evento", "arduino day", "arduinoday", "arduino day mauá", "arduino day são paulo", "arduino day santo andré"]
+
++++
 
 O [Arduino Day]() é um evento anual, que acontece em diversas cidades ao redor do mundo.
-Em algumas edições apenas visitamos.
+Em algumas edições apenas visitamos, porém em outras participamos com palestras.
 
 ________________________________________
 
@@ -40,10 +41,4 @@ Visita em 06/04/2019 no [Centro Cultural São Paulo](http://centrocultural.sp.go
 [Arduino Day São Paulo 2019 - Trankeiras do Sickeira](https://sickeira.blogspot.com/2019/04/arduino-day-sao-paulo-2019.html)
 ________________________________________
 
-Nos acompanhe pelas redes sociais para saaber mais.
-________________________________________
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)
+
