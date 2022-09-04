@@ -1,5 +1,6 @@
-[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
-________________________________________
++++ date = "2022-09-03T16:24:07-03:00" title = "Histórico dos encontros esporádicos do ABC Makerspace" description = "Compilado dos encontros esporádicos realizados no ABC Makerspace" tags = ["encontro"]
+
++++
 
 # Encontros Esporadicos
 Histórico de alguns de nossos encontros não fixos, nas antigas sedes de Santo André, no [Wikilab](https://www.facebook.com/wikilab.abc/) e inclusive alguns online durante a pandemia. Normalmente são uma série de encontros por um curto período de tempo, como as férias escolares, encontros únicos tematicos, ou de preparação para algum evento externo.
@@ -155,8 +156,4 @@ Nos reunimos pelo chat do Telegram, que fornece opção de compartilhar tela. O 
 
 [Foto facebook](https://www.facebook.com/abcmakerspace/photos/a.1470873023180046/3147243785542953)
 ________________________________________
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)  |
+
