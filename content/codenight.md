@@ -1,5 +1,7 @@
-[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
-_______________________________________
++++ date = "2022-09-03T16:24:07-03:00" title = "Histórico dos encontros CodeNight no WikiLab" description = "Todo o histórico dos encontros CodeNight no WikiLab e links para os registros no facebook" tags = ["evento", "campusparty", "CPBR1"]
+
++++
+
 # CodeNight WikiLab
 Atividade das noites de quinta, quinzenal. 
 Hackathon é uma maratona de programação no qual desenvolvedores se reúvem por horas, dias, ou até semanas com o objetivo de explorar códigos, discutir novas ideias e desenvolver projetos de software e hardware. O CodeNight é um "Hackathon Intermitente de Software Livre" que ocorreu dentro do [WikiLab](https://www.facebook.com/wikilab.abc) em 2018 e 2019.
@@ -143,11 +145,5 @@ ________________________________________
 
 [Evento facebook CodeNight - Codificando um software livre real com Python + Qt](https://www.facebook.com/events/360609338131685/369705307222088?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D]%2C%22ref_notif_type%22%3Anull%7D)
 ________________________________________
-Nos acompanhe pelas redes sociais para saber mais.
-________________________________________
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)  |
+
 
