@@ -1,5 +1,6 @@
-[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
-_______________________________________________
++++ date = "2022-09-03T16:24:07-03:00" title = "Quinta da Tempestade Cerebral" description = "Histórico dos encontros da Quinta da Tempestade Cerebral realizados no ABC Makerspace" tags = ["encontro", "quinta da tempestade cerebral"]
+
++++
 
 # Quinta da Tempestade Cerebral
 Uma noite para discutir projetos, ideias, aprender e ensinar no ABC Makerspace. Juntos realizamos mais!
@@ -47,11 +48,3 @@ Além da entrevista do Emerson William Moura para a May Takata, continuamos a fo
 
 [Álbum Facebook ABC Makerspace com 16 fotos](https://www.facebook.com/media/set/?set=a.1749949701939042&type=3).
 ________________________________________
-
-Nos acompanhem pelas midias sociais:
-
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)  |
