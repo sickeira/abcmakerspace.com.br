@@ -1,8 +1,13 @@
-+++ date = "2022-09-03T16:24:07-03:00" title = "Histórico da Terça do Arduino no ABC Makerspace" description = "Histórico dos nossos encontros na Terça do Arduino realizados no ABC Makerspace" tags = ["encontros", "terça do arduino"]
++++ 
+date = "2022-09-03T16:24:07-03:00" 
+title = "Histórico da Terça do Arduino no ABC Makerspace" 
+description = "Histórico dos nossos encontros na Terça do Arduino realizados no ABC Makerspace" 
+tags = ["encontros", "terça do arduino"]
 
 +++
 
 # Terça do Arduino
+
 Uma noite dedicada ao Arduino. Venha mostrar seus projetos, aprender, ensinar, conversar, compartilhar conhecimento.
 
 # 2014

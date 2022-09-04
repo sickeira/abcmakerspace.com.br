@@ -1,6 +1,11 @@
-+++ date = "2022-09-03T16:24:07-03:00" title = "Histórico das participações do ABC Makerspace na Campus" description = "Nossas visitas e participações no TDC SP (The Developer's Conference)" tags = ["evento", "#thedevconf", "tdv"]
++++ 
+date = "2022-09-03T16:24:07-03:00" 
+title = "Histórico das participações do ABC Makerspace na Campus" 
+description = "Nossas visitas e participações no TDC SP (The Developer's Conference)" 
+tags = ["evento", "#thedevconf", "tdv"]
 
 +++
+
 # The Developer's Conference
 
 O TDC é uma Plataforma de Inovação Aberta focada no desenvolvimento do ecossistema de tecnologia brasileiro através de eventos híbridos e online.

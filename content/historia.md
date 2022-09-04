@@ -1,6 +1,11 @@
-+++ date = "2022-09-03T16:24:07-01:00" title = "História da criação do ABC Makerspace" description = "Da ideia original, realização,atividades, frequentadores, WikiLab até os dias atuais." tags = ["história", "histórico" ]
++++ 
+date = "2022-09-03T16:24:07-01:00" 
+title = "História da criação do ABC Makerspace" 
+description = "Da ideia original, realização,atividades, frequentadores, WikiLab até os dias atuais." 
+tags = ["história", "histórico" ]
 
 +++
+
 # História do ABC Makerspace
 
 # A ideia

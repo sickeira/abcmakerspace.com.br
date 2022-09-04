@@ -5,11 +5,6 @@ description = "Artigos, dicas e tutoriais sobre programação de computadores, d
 
 +++
 
-[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
-___________________________________
-
-
-
 # Artigos e tutoriais
 ___________________________________
 ## [Campus Party São Paulo](campus.md)

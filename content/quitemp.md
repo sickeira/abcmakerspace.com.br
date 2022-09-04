@@ -1,4 +1,8 @@
-+++ date = "2022-09-03T16:24:07-03:00" title = "Quinta da Tempestade Cerebral" description = "Histórico dos encontros da Quinta da Tempestade Cerebral realizados no ABC Makerspace" tags = ["encontro", "quinta da tempestade cerebral"]
++++ 
+date = "2022-09-03T16:24:07-03:00" 
+title = "Quinta da Tempestade Cerebral" 
+description = "Histórico dos encontros da Quinta da Tempestade Cerebral realizados no ABC Makerspace" 
+tags = ["encontro", "quinta da tempestade cerebral"]
 
 +++
 

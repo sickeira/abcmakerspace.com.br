@@ -1,4 +1,8 @@
-+++ date = "2022-09-03T16:24:07-03:00" title = "Histórico dos eventos do ABC Makerspace" description = "Nossas visitas e participações em eventos de tecnologia em geral." tags = ["evento"]
++++ 
+date = "2022-09-03T16:24:07-03:00" 
+title = "Histórico dos eventos do ABC Makerspace" 
+description = "Nossas visitas e participações em eventos de tecnologia em geral." 
+tags = ["evento"]
 
 +++
 

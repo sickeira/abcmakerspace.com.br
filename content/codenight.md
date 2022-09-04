@@ -1,4 +1,8 @@
-+++ date = "2022-09-03T16:24:07-03:00" title = "Histórico dos encontros CodeNight no WikiLab" description = "Todo o histórico dos encontros CodeNight no WikiLab e links para os registros no facebook" tags = ["evento", "campusparty", "CPBR1"]
++++ 
+date = "2022-09-03T16:24:07-03:00" 
+title = "Histórico dos encontros CodeNight no WikiLab" 
+description = "Todo o histórico dos encontros CodeNight no WikiLab e links para os registros no facebook" 
+tags = ["evento", "campusparty", "CPBR1"]
 
 +++
 
