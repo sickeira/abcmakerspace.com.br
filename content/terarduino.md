@@ -1,5 +1,6 @@
-[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
-________________________________________
++++ date = "2022-09-03T16:24:07-03:00" title = "Histórico da Terça do Arduino no ABC Makerspace" description = "Histórico dos nossos encontros na Terça do Arduino realizados no ABC Makerspace" tags = ["encontros", "terça do arduino"]
+
++++
 
 # Terça do Arduino
 Uma noite dedicada ao Arduino. Venha mostrar seus projetos, aprender, ensinar, conversar, compartilhar conhecimento.
@@ -118,11 +119,3 @@ ________________________________________
 ## Terça do Arduino 17/12/2019 
 [Evento facebook Terça do Arduino 17/12/2019](https://www.facebook.com/events/609018773239997/)
 ________________________________________
-
-Nos acompanhem pelas midias sociais:
-
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)  |
