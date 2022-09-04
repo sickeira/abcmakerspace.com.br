@@ -1,5 +1,8 @@
-[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
-________________________________________
++++ date = "2022-09-03T16:24:07-03:00" title = "Histórico das participações do ABC Makerspace na RoadSec" description = "Nossas participações na RoadSec SP 2016 a 2022" tags = ["evento", "roadsec", "#roadsec"]
+
++++
+# RoadSec São Paulo
+
 É auto denomindo como o maior evento hacker da América Latina.
 Já participamos de algumas edições da [RoadSec](https://www.roadsec.com.br/) São Paulo, desde 2016 estivemos presente em todas.
 ________________________________________
@@ -58,12 +61,3 @@ Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) pa
 
 [RoadSec 2022 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2022-roadsec.html)
 ________________________________________
-
-Nos acompanhe pelas redes sociais para saber mais.
-
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)  |
-
