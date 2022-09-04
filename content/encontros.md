@@ -1,8 +1,6 @@
 +++ 
 date = "2022-09-03T02:24:07-01:00" 
-title = "História da criação do ABC Makerspace" 
-date = "2022-09-03T01:24:07-01:00" 
-title = "Histórico dos encontros no ABC Makerspace" 
+title = "História da criação do ABC Makerspace"
 description = "Indice dos encontros realizados no ABC Makerspace." 
 tags = ["encontros"]
 
@@ -18,5 +16,3 @@ Nos encontros [Esporádicos](esporadicos.md) deixamos o histórico de alguns de 
 E nos encontros fixos deixaremos o histórico dos que aconteceram com alguma "periodicidade fixa", como as já antigas [Terças do Arduino](terarduino.md) e as [Quintas da Tempestade Cerebral](quitemp.md), além da caçula [CodeNight](codenight.md), que não tinha dia fixo, e era mais ou menos quinzenal.
 ## 2022
 Esperamos retornar em breve com essas atividades, assim que liberado o acesso ao [Wikilab](https://www.facebook.com/wikilab.abc/) ou conseguirmos outro local.
-
-
