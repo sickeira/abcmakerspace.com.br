@@ -1,8 +1,8 @@
 +++
 date = "2022-09-03T16:24:07-03:00"
-title = "Histórico das participações do ABC Makerspace na Campus"
-description = "Nossas visitas e participações na Campus Party SP"
-tags = ["evento", "campusparty", "CPBR1"]
+title = "Campus Party São Paulo"
+description = "Nossas visitas e participações na Campus Party SP em 2015 #cpbr8, 2018 #cpbr11"
+tags = ["evento", "campusparty"]
 
 +++
 
@@ -10,20 +10,23 @@ A [Campus Party Brasil](https://brasil.campus-party.org/) é a maior experiênci
 
 A primeira edição realizada em São Paulo foi entre 11 e 17 de fevereiro de 2008, a #CPBR1.
 ________________________________________
-# Campus Party 2015 - #cpbr8
-[Campus Party](https://brasil.campus-party.org/) de São Paulo
-[ABC Makerspace](https://abcmakerspace.com.br/) na CPBr8, no [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/), 3 a 8 de fevereiro de 2015.
+## Campus Party 2015 - #cpbr8
+A [Campus Party](https://brasil.campus-party.org/) de São Paulo em 2015 #cpbr8 contou com o 
+[ABC Makerspace](https://abcmakerspace.com.br/) no [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/), entre os dias 3 a 8 de fevereiro de 2015.
 A atividade realizada foi na quarta-feira, 04/02 das 14h as 15h sobre Games antigos (MSX) com o Emerson.
 
 [Retrospectiva 2015 - OldFatNerd](https://oldfatnerd.blogspot.com/2016/02/minha-restrospectiva-2015.html).
 
 [Álbum Facebook ABC Makerspace com 7 fotos](https://www.facebook.com/media/set/?set=a.1546796152254399&type=3).
 
-[Dumont Hackerspace na Campus Party 2015](https://garoa.net.br/wiki/Dumont_Hackerspace_na_Campus_Party_2015)
+[Dumont Hackerspace na Campus Party 2015](https://garoa.net.br/wiki/Dumont_Hackerspace_na_Campus_Party_2015).
 ________________________________________
 
-# Campus Party 2018 #cpbr11
-Workshop na Campus Party 2018 #cpbr11 , 3 de fevereiro, com o equipamento de som e video gentilmente cedido pelo Christiano Linuxmen do [Papo de SysAdmin](https://papodesysadmin.org/), foi apresentado pelo Emerson o projeto de um scanner de rede feito com um arduino e um shield ethernet. Baseado no [Projeto de Scan de Rede com Arduino Uno R3](https://sickeira.blogspot.com/2017/12/projeto-de-scan-de-rede-com-arduino-uno.html) e o código esta no [GitHub do ABC Makerspace](https://github.com/ABCMakerspace/scan-de-rede-com-arduino).
+## Campus Party 2018 #cpbr11
+
+Esta edição foi realizada no [Pavilhão de exposições Anhembi](https://distritoanhembi.com.br/pavilhao-de-exposicoes/) entre os dias 30 de janeiro a 4 de fevereiro de 2018.
+
+Fizemos um Workshop na Campus Party 2018 #cpbr11 , em 3 de fevereiro, com o equipamento de som e video gentilmente cedido pelo Christiano Linuxmen do [Papo de SysAdmin](https://papodesysadmin.org/), foi apresentado pelo Emerson o projeto de um scanner de rede feito com um arduino e um shield ethernet. Baseado no [Projeto de Scan de Rede com Arduino Uno R3](https://sickeira.blogspot.com/2017/12/projeto-de-scan-de-rede-com-arduino-uno.html) e o código esta no [GitHub do ABC Makerspace](https://github.com/ABCMakerspace/scan-de-rede-com-arduino).
 
 [Evento Facebook](https://www.facebook.com/events/145593892904081/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
 
@@ -50,12 +53,6 @@ Sábado na #cpbr11,
 [álbum facebook Siqueira com 32 fotos](https://www.facebook.com/media/set/?set=a.1683619001717360&type=3)
 ________________________________________
 
-[Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/). 
+A [Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/). 
 
-Nos acompanhe pelas redes sociais para saaber mais.
-________________________________________
-[Facebook](https://www.facebook.com/abcmakerspace)  |
-[Twitter](https://twitter.com/abcmakerspace)  |
-[Instagram](https://www.instagram.com/abcmakerspace/)  |
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
-[GitHub](https://github.com/ABCMakerspace)  |
+
