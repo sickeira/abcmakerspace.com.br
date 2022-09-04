@@ -1,12 +1,12 @@
 +++ 
-date = "2022-09-03T16:24:07-03:00" 
+date = "2022-09-03T10:24:07-03:00" 
 title = "Histórico dos eventos do ABC Makerspace" 
 description = "Nossas visitas e participações em eventos de tecnologia em geral." 
 tags = ["evento"]
 
 +++
 
-# Eventos
+
 
 Alguns dos eventos externos únicos ou que participamos apenas uma vez e lembramos de registrar.
 Outros eventos que participamos algumas vezes foram:
