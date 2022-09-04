@@ -2,7 +2,7 @@
 date = "2022-09-03T16:24:07-03:00" 
 title = "Histórico das participações do ABC Makerspace na RoadSec" 
 description = "Nossas participações na RoadSec SP 2016 a 2022" 
-tags = ["evento", "roadsec", "#roadsec"]
+tags = ["evento", "roadsec"]
 
 +++
 # RoadSec São Paulo

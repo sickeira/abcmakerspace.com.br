@@ -2,7 +2,7 @@
 date = "2022-09-03T17:32:07-03:00" 
 title = "Histórico das participações do ABC Makerspace nos Arduino Day" 
 description = "Nossas visitas e participações no Arduino Day" 
-tags = ["evento", "arduino day", "arduinoday", "arduino day mauá", "arduino day são paulo", "arduino day santo andré"]
+tags = ["evento", "arduino"]
 
 +++
 
