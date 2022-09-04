@@ -1,16 +1,16 @@
 +++ 
-date = "2022-09-03T16:24:07-03:00" 
-title = "Histórico das participações do ABC Makerspace na RoadSec" 
-description = "Nossas participações na RoadSec SP 2016 a 2022" 
+date = "2022-09-03T10:24:07-03:00" 
+title = "RoadSec São Paulo" 
+description = "Nossas participações na RoadSec SP de 2016 a 2022, na área de comunidades." 
 tags = ["evento", "roadsec"]
 
 +++
-# RoadSec São Paulo
+
 
 É auto denomindo como o maior evento hacker da América Latina.
 Já participamos de algumas edições da [RoadSec](https://www.roadsec.com.br/) São Paulo, desde 2016 estivemos presente em todas.
 ________________________________________
-# RoadSec São Paulo 2016
+## RoadSec São Paulo 2016
 A [RoadSec](https://www.roadsec.com.br/) São Paulo aconteceu em 18 de novembro de 2016 na [Audio](https://audiosp.com.br/), foi a primeira participação do [ABC Makerspace](https://abcmakerspace.com.br/) na área de comunidades. 
 
 Como atividade o Lint realizou a
@@ -27,7 +27,7 @@ Robô omnidirecional que foi um TCC dos alunos Italo Fernandes e Lucas Motta do 
 
 [RoadSec 2016-2019 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2016-2019-roadsec.html)
 ________________________________________
-# RoadSec São Paulo 2017
+## RoadSec São Paulo 2017
 A [RoadSec](https://www.roadsec.com.br/) 2017 foi realizada em 11/11/17 na [Audio](https://audiosp.com.br/) e o [ABC Makerspace](https://abcmakerspace.com.br/) e o [WikiLab](https://www.facebook.com/wikilab.abc) foram no maior evento hacker da América Latina. Na mesa além de conversarmos sobre Segurança em IoT aproveitamos para divulgar o recém inaugurado [WikiLab](https://www.facebook.com/wikilab.abc).
 
 [Banner de divulgação](https://www.facebook.com/abcmakerspace/photos/1946745792259431/).
@@ -36,8 +36,8 @@ A [RoadSec](https://www.roadsec.com.br/) 2017 foi realizada em 11/11/17 na [Audi
 
 [RoadSec 2016-2019 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2016-2019-roadsec.html)
 ________________________________________
-# RoadSec São Paulo 2018
-Desta vez o workshop na [RoadSec](https://www.roadsec.com.br/) SP realizada em 10/11/2018 na [Audio](https://audiosp.com.br/), foi a apresentação de Esteganografia com Steghide na área de comunidades, realizado por Siqueira com a ajuda do Roger Dantas e as fotos da Mel Soares.
+## RoadSec São Paulo 2018
+Desta vez o workshop na [RoadSec](https://www.roadsec.com.br/) SP realizada em 10/11/2018 na [Audio](https://audiosp.com.br/), foi a apresentação de Esteganografia com Steghide na área de comunidades, realizado por Siqueira com a ajuda do Roger Dantas e as fotos da Mel Soares. Aproveitamos o primeiro horário da área de comunidades.
 
 [Álbum Facebook Siqueira com 69 fotos](https://www.facebook.com/media/set/?set=a.2092762630802993&type=3).
 
@@ -45,7 +45,7 @@ Desta vez o workshop na [RoadSec](https://www.roadsec.com.br/) SP realizada em 1
 
 [RoadSec 2016-2019 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2016-2019-roadsec.html).
 ________________________________________
-# RoadSec São Paulo 2019
+## RoadSec São Paulo 2019
 Na edição da [RoadSec](https://www.roadsec.com.br/) SP 2019 pegamos o primeiro horário das 10h as 11h55, a [Audio](https://audiosp.com.br/) ainda estava com pouco público, e a atividade realizada pelo Siqueira foi demonstrar como é possível usar notebooks antigos (32 bits) para algumas atividades, com o uso de distribuições Linux, com o auxilio do Edimichael e também contamos com a participação do Judocka.
 
 [álbum facebook ABC Makerspace com 62 fotos](https://www.facebook.com/media/set/?set=a.3144932292440769&type=3)
@@ -56,8 +56,8 @@ Na edição da [RoadSec](https://www.roadsec.com.br/) SP 2019 pegamos o primeiro
 
 [RoadSec 2016-2019 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2016-2019-roadsec.html).
 ________________________________________
-# RoadSec São Paulo 2022
-Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) participa depois de mais de 2 anos. Foi muito bom rever o pessoal. A [RoadSec](https://www.roadsec.com.br/) SP 2022 aconteceu em 09/07/2022, desta vez na [Arca](https://arcaspaces.com/). Na nossa atividade o Siqueira falou sobre o ATtiny85(Digispark) e seu uso em segurança da informação, além de demontrar alguns scripts em ação.
+## RoadSec São Paulo 2022
+Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) participa depois de mais de 2 anos. Foi muito bom rever o pessoal. A [RoadSec](https://www.roadsec.com.br/) SP 2022 aconteceu em 09/07/2022, desta vez na [Arca](https://arcaspaces.com/). Na nossa atividade o Siqueira falou sobre o ATtiny85(Digispark) e seu uso em segurança da informação, além de demontrar alguns scripts em ação. A apresentação foi baseada a partir dos estudos para os posts [Digispark](https://sickeira.blogspot.com/2021/03/hh-digispark.html) e [Digispark - parte 2](https://sickeira.blogspot.com/2022/07/digispark-parte-2.html).
 
 [Álbum Facebook com 46 fotos](https://www.facebook.com/media/set/?set=a.3145692585698073&type=3).
 
