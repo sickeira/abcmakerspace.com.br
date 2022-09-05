@@ -1,12 +1,12 @@
 +++ 
 date = "2022-09-03T16:24:07-03:00" 
-title = "Histórico dos encontros CodeNight no WikiLab" 
+title = "CodeNight no WikiLab" 
 description = "Todo o histórico dos encontros CodeNight no WikiLab e links para os registros no facebook" 
 tags = ["evento", "campusparty", "CPBR1"]
 
 +++
 
-# CodeNight WikiLab
+
 Atividade das noites de quinta, quinzenal. 
 Hackathon é uma maratona de programação no qual desenvolvedores se reúvem por horas, dias, ou até semanas com o objetivo de explorar códigos, discutir novas ideias e desenvolver projetos de software e hardware. O CodeNight é um "Hackathon Intermitente de Software Livre" que ocorreu dentro do [WikiLab](https://www.facebook.com/wikilab.abc) em 2018 e 2019.
 O objetivo foi escolher um projeto de software livre, estuda-lo e dividir tarefas para que sejam desenvolvidas melhorias nesse projeto. Com isso, além de aprendermos e nos divertirmos, estaremos aprimorando aplicações e contribuindo com a comunidade de software livre.
