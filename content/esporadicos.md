@@ -2,7 +2,7 @@
 date = "2022-09-03T03:24:07-03:00" 
 title = "Encontros esporádicos" 
 description = "Compilado dos encontros esporádicos realizados no ABC Makerspace" 
-tags = ["encontro". "esporadicos"]
+tags = ["encontro","esporadicos"]
 
 +++
 
