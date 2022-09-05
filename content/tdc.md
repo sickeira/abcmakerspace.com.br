@@ -1,18 +1,18 @@
 +++ 
-date = "2022-09-03T16:24:07-03:00" 
-title = "Histórico das participações do ABC Makerspace na Campus" 
-description = "Nossas visitas e participações no TDC SP (The Developer's Conference)" 
-tags = ["evento", "thedevconf", "tdv"]
+date = "2022-09-03T09:24:07-03:00" 
+title = "The Developer's Conference" 
+description = "Nossas visitas e participações no TDC SP (The Developer's Conference) em 2015, 2016 e 2017." 
+tags = ["evento", "thedevconf", "tdc"]
 
 +++
 
-# The Developer's Conference
+
 
 O TDC é uma Plataforma de Inovação Aberta focada no desenvolvimento do ecossistema de tecnologia brasileiro através de eventos híbridos e online.
 Participamos de algumas edições da [The Developer's Conference](https://thedevconf.com/tdc/2022/index.html) em São Paulo, sempre com uma mesa para divulgar o [ABC Makerspace](https://abcmakerspace.com.br/) na área de 
 
 ________________________________________
-# #TheDevConf 2015 - The Developer's Conference São Paulo
+## #TheDevConf 2015 - The Developer's Conference São Paulo
 De 21 a 25/07/15 tivemos uma mesa para expor o [ABC Makerspace](https://abcmakerspace.com.br/) no [The Developer's Conference 2015](https://thedevconf.com/tdc/2015/saopaulo/trilhas), na [Universidade Anhembi Morumbi](https://portal.anhembi.br/).
 Apesar da grafia errada na placa (trocaram Makerspace por Hackerspace)
 
@@ -27,7 +27,8 @@ Apesar da grafia errada na placa (trocaram Makerspace por Hackerspace)
 [Álbuns de Fotos do #TheDevConf 2015 São Paulo](https://thedevconf.com/tdc/2015/saopaulo/fotos).
 ________________________________________
 
-# #TheDevConf 2016 - The Developer's Conference São Paulo
+## #TheDevConf 2016 - The Developer's Conference São Paulo
+Fomos divulgar o [ABC Makerspace](https://abcmakerspace.com.br/) e alguns projetos feitos pelos integrantes.
 
 Fotos do dia 07/07/2016 no The Developer's Conference
 
@@ -37,9 +38,9 @@ The Developer's Conference na sexta 08/07/2016
 
 [Álbum Facebook ABC Makerspace com 50 fotos](https://www.facebook.com/media/set/?set=a.1733113436956002&type=3).
 ________________________________________
-# #TheDevConf 2017 - The Developer's Conference São Paulo
+## #TheDevConf 2017 - The Developer's Conference São Paulo
 
-Aproveitamos o espaço no [TDC 2017](https://thedevconf.com/tdc/2017/saopaulo/trilhas) para divulgar o ABC Makerspace e o [WikiLab]()
+Aproveitamos o espaço no [TDC 2017](https://thedevconf.com/tdc/2017/saopaulo/trilhas) especialmente para divulgar a campanha de crowdfounding do [WikiLab](https://www.facebook.com/wikilab.abc/)
 
 [Foto 1](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911579405776070/?type=3)//[Foto 2](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911579199109424/?type=3)//[Foto 3](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911577559109588/?type=3)//[Foto 4](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911575209109823/?type=3)//[Foto 5](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911572675776743/?type=3)//[Foto 6](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911572559110088/?type=3)
 ________________________________________
