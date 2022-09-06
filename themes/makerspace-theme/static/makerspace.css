@@ -44,14 +44,14 @@ code {
     font-family: "3270Regular";
 }
 pre {
-  border: 2px solid #0df;
+  border: 2px solid #33ff33;
   padding: 1rem;
   line-height: 1.4;
   overflow-x: auto;
 }
 
 a {
-  color: #0df;
+  color: #ffb000;
   text-decoration: none;
 }
 
@@ -94,7 +94,7 @@ h1 {
   padding: 0.5rem 0 0.5rem 0;  
 }
 h2 {
-  border: 2px solid #0df;
+  border: 2px solid #33ff33;
   font-size: 1.25rem;
   padding: 0.5rem;
   color: #0df;
@@ -117,8 +117,8 @@ h4 {
 
 hr {
     border: none;
-    background-color: #0ef;
-    color: #0ef;
+    background-color: #33ff33;
+    color: #33ff33;
     height: 2px;
 }
 
