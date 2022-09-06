@@ -1,13 +1,13 @@
 +++ 
 date = "2022-09-03T02:24:07-01:00" 
-title = "História da criação do ABC Makerspace"
+title = "Encontros no ABC Makerspace"
 description = "Indice dos encontros realizados no ABC Makerspace." 
 tags = ["encontros"]
 
 +++
 
 
-## Encontros
+
 Para facilitar a pesquisa dos históricos de nossos encontros registrados, vamos dividir os encontros em:
 
 ## Esporádicos
