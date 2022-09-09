@@ -8,7 +8,7 @@ tags = ["história"]
 
 
 
-# A ideia
+## A ideia
 
 Durante o evento Carnahacking de 2013, realizado no [Garoa Hacker Clube](https://garoa.net.br), os colegas 
 Emerson "Brutus" Moura (morador da cidade de Santo André) e Sergio Vladisauskis 
@@ -16,7 +16,7 @@ Emerson "Brutus" Moura (morador da cidade de Santo André) e Sergio Vladisauskis
 hackerspace na região do ABC, uma vez que o "Garoa" fica distante da região 
 (pouco mais de 1 hora de carro através de região urbana, fora do horário de pico).
 
-# A realização
+## A realização
 
 Apesar da criação de uma lista de discussão por e-mail na mesma época, o projeto só 
 se concretizou em agosto de 2014, quando a então empresa CubicBlox, dos colegas 
@@ -25,11 +25,11 @@ do grupo em sua sede, na região central da cidade de Santo André. Com o encerr
 das atividades da empresa, no início de 2016, os frequentadores mantiveram o espaço 
 até agosto de 2016, enquanto buscavam outras opções de local.
 
-# Atividades e frequentadores
+## Atividades e frequentadores
 
 Durante o período de atividades (2014 a 2016), formou-se um grupo de frequentadores 
-interessados nas atividades fixas as terças-feiras [Terça do Arduino](terarduino) e quintas-feiras 
-[Quinta da Tempestade Cerebral](quitemp), sempre a noite, onde diversas pessoas se reuniam 
+interessados nas atividades fixas as terças-feiras [Terça do Arduino](https://abcmakerspace.com.br/terarduino/) e quintas-feiras 
+[Quinta da Tempestade Cerebral](https://abcmakerspace.com.br/quitemp/), sempre a noite, onde diversas pessoas se reuniam 
 para tocar projetos, ou apenas para conversar, normalmente sobre tecnologias de TIC, 
 robótica e eletrônica, além de fazer networking acadêmico e profissional. 
 Eventualmente haviam atividades diversas, geralmente ligadas a IoT e retrocomputação, 
@@ -38,7 +38,7 @@ além de mini cursos esporádicos, como Go Lang, Linux, Arduino etc.
 Esse grupo de frequentadores sempre foi formado por professores de nível técnico e 
 superior, estudantes em geral e profissionais relacionados.
 
-# O Wikilab
+## O Wikilab
 
 No final de 2016, através de conversas entre o colega Victor "Ubatuba" Fragoso com 
 o prof. Sérgio Amadeu, surgiu o projeto [Wikilab](https://www.facebook.com/wikilab.abc/) dentro do Campus São Bernardo do Campo da [UFABC](https://www.ufabc.edu.br/), que se pretendia tornar o novo local de encontro entre os frequentadores do [ABC Makerspace](https://abcmakerspace.com.br/) (como representante da comunidade da região) e o grupo interno 
@@ -47,9 +47,9 @@ da universidade [Lablivre](https://lablivre.pesquisa.ufabc.edu.br/wikilab/) (foc
 A partir do início de 2018 o espaço [Wikilab](https://www.facebook.com/wikilab.abc/) começou a sediar as atividades de ambos 
 os grupos, [ABC Makerspace](https://abcmakerspace.com.br/) e [Lablivre](https://lablivre.pesquisa.ufabc.edu.br/wikilab/).
 
-Também surgiram os encontros do [CodeNight WikiLab](codenight.md).
+Também surgiram os encontros do [CodeNight WikiLab](https://abcmakerspace.com.br/codenight/).
 
-# Pandemia
+## Pandemia
 Assim como todo o mundo deixamos de nos reunir presencialmente e fizemos alguns encontros online, com o uso de diversas ferramentas, acabamos adotando o [Jitsi](https://jitsi.org/) na maior parte do tempo.
 
 [site antigo](http://abcmakerspace.github.io/)
