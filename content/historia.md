@@ -20,7 +20,7 @@ hackerspace na região do ABC, uma vez que o "Garoa" fica distante da região
 
 Apesar da criação de uma lista de discussão por e-mail na mesma época, o projeto só 
 se concretizou em agosto de 2014, quando a então empresa CubicBlox, dos colegas 
-[César Gimenes](https://crg.eti.br/) e Alexandre "Pacman" Pereira, ofereceram espaço para as atividades 
+[César Gimenes](https://crg.eti.br/) ofereceu o espaço para as atividades 
 do grupo em sua sede, na região central da cidade de Santo André. Com o encerramento 
 das atividades da empresa, no início de 2016, os frequentadores mantiveram o espaço 
 até agosto de 2016, enquanto buscavam outras opções de local.
