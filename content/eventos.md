@@ -11,13 +11,13 @@ tags = ["evento"]
 Alguns dos eventos externos únicos ou que participamos apenas uma vez e lembramos de registrar.
 Outros eventos que participamos algumas vezes foram:
 
-[Arduino Day](arduinoday.md)
+[Arduino Day](https://abcmakerspace.com.br/arduinoday/)
 
-[Campus Party São Paulo](campus.md)
+[Campus Party São Paulo](https://abcmakerspace.com.br/campus/)
 
-[RoadSec São Paulo](roadsec.md)
+[RoadSec São Paulo](https://abcmakerspace.com.br/roadsec/)
 
-[TDC - The Developer's Conference São Paulo](tdc.md)
+[TDC - The Developer's Conference São Paulo](https://abcmakerspace.com.br/tdc/)
 
 
 # 2014
