@@ -84,6 +84,17 @@ Mutirão do dia 23 de setembro de 2017, para a montagem do teto do [WikiLab](htt
 
 [álbum facebook Siqueira com 28 fotos](https://www.facebook.com/media/set/?set=a.1547856861960242&type=3)
 ________________________________________
+## 1ª SP Maker Week
+Realizado entre os dias 25 e 30 de setembro de 2017, no galpão da [Vila Itororó](https://institutopedra.org.br/projetos/vila-itororo/)(que por si já vale a visita), fomos divulgar o [WikiLab](https://www.facebook.com/wikilab.abc) na feira de encerramento do 1º [SP Maker Week](https://www.facebook.com/spmakerweek/), evento organizado pelo [Fab Lab Livre de São Paulo](https://fablablivresp.prefeitura.sp.gov.br/) e pela prefeitura.
+
+[álbum facebook Siqueira com 15 fotos](https://www.facebook.com/media/set/?set=a.1553972478015347&type=3)
+
+Vídeo de 13 minutos que mostra bem tanto a feira maker quanto o espaço físico [SP MakerWeek 2017 - Encontro da Cultura Maker e Fabricação Digital - Exposição e Palestras](https://www.youtube.com/watch?v=_Hs6mfyUAcM)
+
+[Divulgação e programação da 1ª SP Maker Week](https://www.prefeitura.sp.gov.br/cidade/secretarias/inovacao/noticias/index.php?p=241451)
+
+[Portal Embarcados anuncia a SP Maker Week](https://embarcados.com.br/sp-makerweek/)
+________________________________________
 ## Inauguração do WikiLab
 Inauguração do WikiLab em 10 de novembro de 2017, e como ninguém é de ferro, fomos comemorar depois no boteco do Lombardi.
 
