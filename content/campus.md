@@ -73,8 +73,27 @@ Sábado na #cpbr11,
 Último dia da Campus Party 2018, encontrando muitas pessoas e diversas boas conversas , aprendendo muito e divulgando o [ABC Makerspace](https://abcmakerspace.com.br/) e o [WikiLab](https://www.facebook.com/wikilab.abc).
 
 [álbum facebook Siqueira com 32 fotos](https://www.facebook.com/media/set/?set=a.1683619001717360&type=3)
+
 ________________________________________
 
-A [Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/). 
+## Campus Party 2019 #cpbr12
+
+Nesta edição o local foi alterado para o [Expo Cente Norte](https://expocenternorte.com.br/) e aconteceu entre os dias 12 a 17 de fevereiro de 2019.
+
+Fomos apenas como visitantes.
+
+[Álbum facebook Siqueira com 60 fotos](https://www.facebook.com/media/set/?set=a.5622282237850997&type=3)
+
+
+________________________________________
+## Campus Party 2022 #cpbr14
+
+Esta edição da [Campus Party SP](https://brasil.campus-party.org/) será de 11 a 15 de novembro de 2022, retorna para o [Pavilhão de exposições Anhembi](https://distritoanhembi.com.br/pavilhao-de-exposicoes/) e participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/).
+
+Este ano terá transmissão pelo YouTube, link em breve.
+
+## [Programação da Bancada Dumont Hackerspace](https://garoa.net.br/wiki/Dumont_Hackerspace_na_Campus_Party_2022#Atividades_Confirmadas)
+
+
 
 
