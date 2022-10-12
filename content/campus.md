@@ -1,7 +1,7 @@
 +++
 date = "2022-09-03T16:24:07-03:00"
 title = "Campus Party São Paulo"
-description = "Nossas visitas e participações na Campus Party SP em 2015 #cpbr8, 2018 #cpbr11"
+description = "Nossas visitas e participações na Campus Party SP"
 tags = ["evento", "campusparty"]
 
 +++
@@ -12,7 +12,7 @@ A primeira edição realizada em São Paulo foi entre 11 e 17 de fevereiro de 20
 ________________________________________
 ## Campus Party 2015 - #cpbr8
 A [Campus Party](https://brasil.campus-party.org/) de São Paulo em 2015 #cpbr8 contou com o 
-[ABC Makerspace](https://abcmakerspace.com.br/) no [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/), entre os dias 3 a 8 de fevereiro de 2015 no [Pavilhão de exposições Anhembi](https://distritoanhembi.com.br/pavilhao-de-exposicoes/).
+[ABC Makerspace](https://abcmakerspace.com.br/) no [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/), entre os dias 3 a 8 de fevereiro de 2015 na [São Paulo Expo](https://www.saopauloexpo.com.br/pt/).
 A atividade realizada foi na quarta-feira, 04/02 das 14h as 15h sobre Games antigos (MSX) com o Emerson.
 
 [Retrospectiva 2015 - OldFatNerd](https://oldfatnerd.blogspot.com/2016/02/minha-restrospectiva-2015.html).
@@ -23,7 +23,7 @@ A atividade realizada foi na quarta-feira, 04/02 das 14h as 15h sobre Games anti
 ________________________________________
 ## Campus Party 2016 - #cpbr9
 
-Visitamos a #cpbr9 que aconteceu entre os dias 26 e 31 de janeiro de 2016 no [Pavilhão de exposições Anhembi](https://distritoanhembi.com.br/pavilhao-de-exposicoes/).
+Visitamos a #cpbr9 que aconteceu entre os dias 26 e 31 de janeiro de 2016 retornando ao [Pavilhão de exposições Anhembi](https://distritoanhembi.com.br/pavilhao-de-exposicoes/).
 
 [Álbum Facebook Siqueira - Campus com 52 fotos](https://www.facebook.com/media/set/?vanity=sickeira&set=a.5590338524378702)
 
