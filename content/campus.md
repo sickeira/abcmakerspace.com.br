@@ -88,12 +88,13 @@ Fomos apenas como visitantes.
 ________________________________________
 ## Campus Party 2022 #cpbr14
 
-Esta edição da [Campus Party SP](https://brasil.campus-party.org/) será de 11 a 15 de novembro de 2022, retorna para o [Pavilhão de exposições Anhembi](https://distritoanhembi.com.br/pavilhao-de-exposicoes/) e participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/).
+Esta edição da [Campus Party SP](https://brasil.campus-party.org/) foi de 11 a 15 de novembro de 2022, retornou para o [Pavilhão de exposições Anhembi](https://distritoanhembi.com.br/pavilhao-de-exposicoes/) e participamos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/).
 
-Este ano terá transmissão pelo YouTube, link em breve.
+Este ano tivemos transmissão pelo YouTube.
 
-## [Programação da Bancada Dumont Hackerspace](https://garoa.net.br/wiki/Dumont_Hackerspace_na_Campus_Party_2022#Atividades_Confirmadas)
+[Programação da Bancada Dumont Hackerspace](https://garoa.net.br/wiki/Dumont_Hackerspace_na_Campus_Party_2022#Atividades_Confirmadas)
 
+________________________________________
 
 
 
