@@ -57,11 +57,13 @@ Na edição da [RoadSec](https://www.roadsec.com.br/) SP 2019 pegamos o primeiro
 [RoadSec 2016-2019 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2016-2019-roadsec.html).
 ________________________________________
 ## RoadSec São Paulo 2022
-Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) participa depois de mais de 2 anos. Foi muito bom rever o pessoal. A [RoadSec](https://www.roadsec.com.br/) SP 2022 aconteceu em 09/07/2022, desta vez na [Arca](https://arcaspaces.com/). Na nossa atividade o Siqueira falou sobre o ATtiny85(Digispark) e seu uso em segurança da informação, além de demontrar alguns scripts em ação. A apresentação foi baseada a partir dos estudos para os posts [Digispark](https://sickeira.blogspot.com/2021/03/hh-digispark.html) e [Digispark - parte 2](https://sickeira.blogspot.com/2022/07/digispark-parte-2.html).
+Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) participa depois de mais de 2 anos. Foi muito bom rever o pessoal. A [RoadSec](https://www.roadsec.com.br/) SP 2022 aconteceu em 09/07/2022, desta vez na [Arca](https://arcaspaces.com/). Na nossa atividade o Siqueira falou sobre o ATtiny85(Digispark) e seu uso em segurança da informação, além de demonstrar alguns scripts em ação. A apresentação foi baseada a partir dos estudos para os posts [Digispark](https://sickeira.blogspot.com/2021/03/hh-digispark.html) e [Digispark - parte 2](https://sickeira.blogspot.com/2022/07/digispark-parte-2.html).
 
 [Álbum Facebook com 46 fotos](https://www.facebook.com/media/set/?set=a.3145692585698073&type=3).
 
 [Instagram ABC Makerspace](https://www.instagram.com/abcmakerspace/) [1](https://www.instagram.com/p/Cf1wWMxucuB/)//[2](https://www.instagram.com/p/Cf4PXjvuLie/)//[3](https://www.instagram.com/p/Cf7Er9nuo9a/)//[4](https://www.instagram.com/p/Cf9o5tdg0OY/)
+
+[Clipe da apresentação](https://www.youtube.com/watch?v=5LCxfcNnyPY)
 
 [RoadSec 2022 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2022-roadsec.html)
 ________________________________________
