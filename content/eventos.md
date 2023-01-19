@@ -110,9 +110,19 @@ A [Flisol Santo André 2018](https://flisol.info/FLISOL2018/Brasil/SantoAndre) f
 [Álbum Facebook com 78 fotos.](https://www.facebook.com/media/set/?set=a.2035324956734847&type=3)
 ________________________________________
 
-# 2022
+# 2023
 
-# Eventos futuros que estamos confirmados
+## LHC - Visita em 12 de Janeiro de 2023 para a atividade LoRaWan 101
 
-[Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/). 
+Na quinta 12 de janeiro de 2023 o [ABC Makerspace](https://abcmakerspace.com.br/) participou da primeira atividade no [Laboratório Hacker de Campinas - LHC](https://lhc.net.br) .
+
+[Agenda de Eventos do LHC](https://eventos.lhc.net.br/event/lorawan-101-atividade-gratuita)
+
+[GitHub LHC - LoRaWAN-101 com pequeno resumo](https://github.com/lhc/LoRaWAN-101)
+
+[Twitter do LHC com 3 fotos.](https://twitter.com/lhc_campinas/status/1613961723894972418)
+
+[Discourse do LHC LoRaWan 101 com 6 fotos](https://discourse.lhc.net.br/t/12-de-janeiro-de-2023-lorawan-101/392/2)
+
+________________________________________
 
