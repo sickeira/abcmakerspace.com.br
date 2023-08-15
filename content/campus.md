@@ -92,9 +92,16 @@ Esta edição da [Campus Party SP](https://brasil.campus-party.org/) foi de 11 a
 
 Este ano tivemos transmissão pelo YouTube.
 
-[Programação da Bancada Dumont Hackerspace](https://garoa.net.br/wiki/Dumont_Hackerspace_na_Campus_Party_2022#Atividades_Confirmadas)
+[Programação da Bancada Dumont Hackerspace 2022](https://garoa.net.br/wiki/Dumont_Hackerspace_na_Campus_Party_2022#Atividades_Confirmadas)
 
 ________________________________________
+## Campus Party 2023 #cpbr15
 
+Entre os dias 25 e 30 de julho de 2023 aconteceu a [Campus Party 15](https://brasil.campus-party.org/cpbr15/), em São Paulo, novamente no [Pavilhão de Exposições Anhembi](https://distritoanhembi.com.br/pavilhao-de-exposicoes/) . Desta vez o espaço para o [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/)  foi ampliado para um palco comunidade que dividimos com o pessoal do [Papo de SysAdmin], sendo eles responsáveis pelas atividades dos dias 26 e 27 (quarta e quinta) e o Dumont pelos dias 28 e 29 (sexta e sábado). Nesta edição o coordenador do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/) foi o Sickeira, que também palestrou. Mais detalhes sobre a programação podem ser vistos em:
+
+[Programação Palco Comunidade Dumont Hackerspace + Papo de SysAdmin 2023]
+(https://garoa.net.br/wiki/Dumont_Hackerspace_na_Campus_Party_2023#Chamadas_de_Atividades)
+
+________________________________________
 
 
