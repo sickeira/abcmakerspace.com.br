@@ -54,6 +54,11 @@ Assim como todo o mundo deixamos de nos reunir presencialmente e fizemos alguns 
 [site antigo](http://abcmakerspace.github.io/)
 
 _______________________________________________
+## 2023
+
+Retornamos com nossas atividades/encontros presenciais no [Wikilab](https://www.facebook.com/wikilab.abc/) e também voltamos a participar de eventos externos, para saber mais nos acompanhe na rede social de sua preferencia (links no rodapé).
+
+_______________________________________________
 
 
 
