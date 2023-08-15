@@ -57,7 +57,7 @@ Na edição da [RoadSec](https://www.roadsec.com.br/) SP 2019 pegamos o primeiro
 [RoadSec 2016-2019 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2016-2019-roadsec.html).
 ________________________________________
 ## RoadSec São Paulo 2022
-Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) participa depois de mais de 2 anos. Foi muito bom rever o pessoal. A [RoadSec](https://www.roadsec.com.br/) SP 2022 aconteceu em 09/07/2022, desta vez na [Arca](https://arcaspaces.com/). Na nossa atividade o Siqueira falou sobre o ATtiny85(Digispark) e seu uso em segurança da informação, além de demonstrar alguns scripts em ação. A apresentação foi baseada a partir dos estudos para os posts [Digispark](https://sickeira.blogspot.com/2021/03/hh-digispark.html) e [Digispark - parte 2](https://sickeira.blogspot.com/2022/07/digispark-parte-2.html).
+Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) participa depois de mais de 2 anos. Foi muito bom rever o pessoal. A [RoadSec](https://www.roadsec.com.br/) SP 2022 aconteceu em 09/07/2022, desta vez na [Arca](https://arcaspaces.com/). Na nossa atividade o Sickeira falou sobre o ATtiny85(Digispark) e seu uso em segurança da informação, além de demonstrar alguns scripts em ação. A apresentação foi baseada a partir dos estudos para os posts [Digispark](https://sickeira.blogspot.com/2021/03/hh-digispark.html) e [Digispark - parte 2](https://sickeira.blogspot.com/2022/07/digispark-parte-2.html).
 
 [Álbum Facebook com 46 fotos](https://www.facebook.com/media/set/?set=a.3145692585698073&type=3).
 
@@ -66,4 +66,38 @@ Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) pa
 [Clipe da apresentação](https://www.youtube.com/watch?v=5LCxfcNnyPY)
 
 [RoadSec 2022 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2022-roadsec.html)
+________________________________________
+## RoadSec São Paulo 2023
+
+
+No dia 15 de julho de 2023 na [Arca](https://arcaspaces.com/) foi realizada a edição da [RoadSec](https://www.roadsec.com.br/) SP 2023, e novamente o Sickeira representou o ABC Makerspace, desta vez apresentou a palestra Extraindo Informações via Hardware
+
+No dia 12/07/2023 ainda organizamos um pequeno [esquenta](https://www.instagram.com/p/CuiGcYmxh7L/) para o evento. 
+
+Na programação estava agendado para as 12h30, porém faltaram 2 palestrantes e foi iniciada as 13h30 no Palco Aleph.[Localização do palco](https://www.instagram.com/p/CunyXCzNrGx/)
+
+Apesar de sermos uma das primeiras [comunidades anunciadas](https://www.instagram.com/p/CuaKU5AvvM3/) não pegamos mesa, optamos apenas pela palestra.
+
+Imagens do Facebook
+[1](https://www.facebook.com/photo/?fbid=607015388242604&set=a.607042961573180)
+[2](https://www.facebook.com/photo/?fbid=607015534909256&set=a.607042961573180)
+[3](https://www.facebook.com/photo/?fbid=607015558242587&set=a.607042961573180)
+[4](https://www.facebook.com/photo/?fbid=607015774909232&set=a.607042961573180) placa do roteador entre o público da palestra.
+[5](https://www.facebook.com/photo/?fbid=607032474907562&set=a.607042961573180)
+[6](https://www.facebook.com/photo/?fbid=607032644907545&set=a.607042961573180)
+[7](https://www.facebook.com/photo/?fbid=607032671574209&set=a.607042961573180)
+
+[Foto da turma do ABC Makerspace](https://www.instagram.com/p/CvM6KM_oapf/) com pessoal do [Garoa](https://garoa.net.br/wiki/P%C3%A1gina_principal) e do [GERSE](https://linktr.ee/gerse)
+
+Mais fotos do evento no Facebook da RoadSec:
+[Album oficial parte 1 - Cobertura](https://www.facebook.com/media/set/?set=a.606734791603997&type=3)
+
+[Album oficial parte 2 - Abertura, Encerramento e After Party](https://www.facebook.com/media/set/?set=a.606690284941781&type=3)
+
+[Album oficial parte 3 - Área de exposição, lojas e foodtrucks](https://www.facebook.com/media/set/?set=a.606983688245774&type=3)
+
+[Album oficial parte 4 - Palestras, Atividades, Comunidades e Vilas](https://www.facebook.com/media/set/?set=a.607042961573180&type=3)
+
+
+
 ________________________________________
