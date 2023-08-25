@@ -1,5 +1,5 @@
 +++ 
-date = "2022-09-03T03:24:07-03:00" 
+date = "2023-08-03T03:24:07-03:00" 
 title = "Encontros esporádicos" 
 description = "Compilado dos encontros esporádicos realizados no ABC Makerspace" 
 tags = ["encontro","esporadicos"]
@@ -168,6 +168,7 @@ ________________________________________
 Depois de algum tempo nos reunimos em um local provisório, denominado "Caverna do Brutus", e neste dia conversamos sobre os eventos do ano de 2023. Não houve divulgação nas redes sociais.
 
 [Registro no Facebook](https://www.facebook.com/photo/?fbid=615757977226501&set=a.465258912276409)
+
 [Registro no Instagram](https://www.instagram.com/p/CnUi9I-JE_x/)
 ________________________________________
 
@@ -176,6 +177,7 @@ ________________________________________
 Depois de alguns anos, devido a pandemia, voltamos a visitar o [Wikilab](https://www.facebook.com/wikilab.abc/) para verificar as condições e providenciar uma limppeza.
 
 [Registro no Instagram](https://www.instagram.com/p/CpKxyljhOMm/)
+
 [Registro no Facebook](https://www.facebook.com/photo/?fbid=654385850030380&set=a.465258912276409)
 ________________________________________
 
@@ -184,6 +186,7 @@ ________________________________________
 Proposta de atividades para [RoadSec SP](https://www.roadsec.com.br/) e [CryptoRave](https://2023.cryptorave.org/)
 
 [Divulgação no Instagram](https://www.instagram.com/p/CqVrGuzuA2c/)
+
 [Divulgação no Facebook](https://www.facebook.com/photo/?fbid=675039044631727&set=a.465258912276409)
 ________________________________________
 
@@ -192,8 +195,11 @@ ________________________________________
 Testes com roteadores e dongle serial/USB com BusyBox
 
 [Divulgação no Instagram](https://www.instagram.com/p/CqeP5KjMw1N/)
+
 [Evento no Facebook](https://www.facebook.com/events/1872879293076005/?ref=newsfeed)
+
 [Divulgação no Facebook](https://www.facebook.com/photo/?fbid=677181107750854&set=a.465258912276409)
+
 [Registro da atividade no Instagram](https://www.instagram.com/p/CqqypltOQtk/)
 ________________________________________
 
@@ -202,6 +208,7 @@ ________________________________________
 Evento cancelado
 
 [Divulgação no Instagram](https://www.instagram.com/p/CrL5Es4OcDC/)
+
 [Divulgação no Facebook](https://www.facebook.com/photo/?fbid=689413339860964&set=a.465258912276409)
 ________________________________________
 
@@ -210,8 +217,11 @@ ________________________________________
 No final das contas acabamos desmontando uma multifuncional, o Sickeira aproveitou para fazer uma prévia do que apresentou na [CryptoRave](https://2023.cryptorave.org/) e ouvir sugestões do Gabriel, Emerson e Felipe.
 
 [Divulgação no Instagram](https://www.instagram.com/p/Crb_iPphZCz/)
+
 [Divulgação no Facebook](https://www.facebook.com/photo/?fbid=693830772752554&set=a.465258912276409)
+
 [Registro do encontro de 26/04 no Instagram](https://www.instagram.com/p/CrmBi2pppdI/)
+
 [Registro do encontro de 26/04 no Facebook](https://www.facebook.com/photo/?fbid=696496655819299&set=a.465258912276409)
 ________________________________________
 
@@ -219,11 +229,8 @@ ________________________________________
 Conversamos sobre as atividades que podemos fazer nos próximos eventos que acontecerão 3 no periodo de apenas um mês, sendo a [BSides SP](https://securitybsides.com.br/2023/)24 e 25 de junho, [RoadSec SP](https://www.roadsec.com.br/) 15 de julho e a [Campus Party SP #CPBR15](https://brasil.campus-party.org/#) 25 a 30 julho.
 
 [Divulgação no Instagram](https://www.instagram.com/p/Cr__Os7N9zs/)
+
 [Divulgação no Facebook](https://www.facebook.com/photo/?fbid=703719485097016&set=a.465258912276409)
 ________________________________________
 
-##
-
-[Divulgação no Instagram]()
-[Divulgação no Facebook]()
-________________________________________
+Em constante atualização
