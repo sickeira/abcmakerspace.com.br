@@ -189,159 +189,99 @@ ________________________________________
 
 Proposta de atividades para [RoadSec SP](https://www.roadsec.com.br/) e [CryptoRave](https://2023.cryptorave.org/)
 
-[Divulgação no Instagram](https://www.instagram.com/p/CqVrGuzuA2c/)
+Divulgação no [Instagram](https://www.instagram.com/p/CqVrGuzuA2c/) | [Facebook](https://www.facebook.com/photo/?fbid=675039044631727&set=a.465258912276409) | [Twitter](https://twitter.com/abcmakerspace/status/1640751425155153922)
 
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=675039044631727&set=a.465258912276409)
-
-[Divulgação no Twitter](https://twitter.com/abcmakerspace/status/1640751425155153922)
-
-[Imagens do encontro de 29/03/2023 no Instagram](https://www.instagram.com/p/CsGo9RGvNBA/)
+Imagens do encontro de 29/03/2023 no [Instagram](https://www.instagram.com/p/CsGo9RGvNBA/)
 ________________________________________
 
 ## 05/04/2023  Quarta
 
 Testes com roteadores e dongle serial/USB com BusyBox
 
-[Divulgação no Instagram](https://www.instagram.com/p/CqeP5KjMw1N/)
+Divulgação no [Instagram](https://www.instagram.com/p/CqeP5KjMw1N/) | [Facebook](https://www.facebook.com/photo/?fbid=677181107750854&set=a.465258912276409)
 
 [Evento no Facebook](https://www.facebook.com/events/1872879293076005/?ref=newsfeed)
-
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=677181107750854&set=a.465258912276409)
 
 [Registro da atividade no Instagram](https://www.instagram.com/p/CqqypltOQtk/)
 ________________________________________
 
 ## 19/04/2023  Quarta
 
-Evento cancelado
+EVENTO CANCELADO
 
-[Divulgação no Instagram](https://www.instagram.com/p/CrL5Es4OcDC/)
-
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=689413339860964&set=a.465258912276409)
+Divulgação no [Instagram](https://www.instagram.com/p/CrL5Es4OcDC/) | [Facebook](https://www.facebook.com/photo/?fbid=689413339860964&set=a.465258912276409)
 ________________________________________
 
 ## 26/04/2023 Quarta
 
 No final das contas acabamos desmontando uma multifuncional, o Sickeira aproveitou para fazer uma prévia do que apresentou na [CryptoRave](https://2023.cryptorave.org/) e ouvir sugestões do Gabriel, Emerson e Felipe.
 
-[Divulgação no Instagram](https://www.instagram.com/p/Crb_iPphZCz/)
+Divulgação no [Instagram](https://www.instagram.com/p/Crb_iPphZCz/) | [Facebook](https://www.facebook.com/photo/?fbid=693830772752554&set=a.465258912276409) | [Twitter](https://twitter.com/abcmakerspace/status/1650942755114217482)
 
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=693830772752554&set=a.465258912276409)
-
-[Divulgação no Twitter / X](https://twitter.com/abcmakerspace/status/1650942755114217482)
-
-[Registro do encontro de 26/04 no Instagram](https://www.instagram.com/p/CrmBi2pppdI/)
-
-[Registro do encontro de 26/04 no Facebook](https://www.facebook.com/photo/?fbid=696496655819299&set=a.465258912276409)
+Registro do encontro de 26/04 no [Instagram](https://www.instagram.com/p/CrmBi2pppdI/) | [Facebook](https://www.facebook.com/photo/?fbid=696496655819299&set=a.465258912276409)
 ________________________________________
 
 ## 10/05/2023 Quarta
-Conversamos sobre as atividades que podemos fazer nos próximos eventos que acontecerão 3 no periodo de apenas um mês, sendo a [BSides SP](https://securitybsides.com.br/2023/)24 e 25 de junho, [RoadSec SP](https://www.roadsec.com.br/) 15 de julho e a [Campus Party SP #CPBR15](https://brasil.campus-party.org/#) 25 a 30 julho.
+Conversamos sobre as atividades que podemos fazer nos próximos eventos que acontecerão 3 no periodo de apenas um mês, sendo a [BSides SP](https://securitybsides.com.br/2023/) 24 e 25 de junho, [RoadSec SP](https://www.roadsec.com.br/) 15 de julho e a [Campus Party SP #CPBR15](https://brasil.campus-party.org/#) 25 a 30 julho.
 
-[Divulgação no Instagram](https://www.instagram.com/p/Cr__Os7N9zs/)
+Divulgação no [Instagram](https://www.instagram.com/p/Cr__Os7N9zs/) | [Facebook](https://www.facebook.com/photo/?fbid=703719485097016&set=a.465258912276409)
 
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=703719485097016&set=a.465258912276409)
-
-[Imagens do encontro de 10/05/2023 no Instagram](https://www.instagram.com/p/Csj7faBAfPY/)
-
-[Imagens do encontro de 10/05/2023 no Facebook](https://www.facebook.com/photo/?fbid=706490464819918&set=pcb.706490508153247)
+Imagens do encontro de 10/05/2023 no [Instagram](https://www.instagram.com/p/Csj7faBAfPY/) | [Facebook](https://www.facebook.com/photo/?fbid=706490464819918&set=pcb.706490508153247)
 ________________________________________
 
 ## Encontro de 17/05/2023 Quarta
 
 Recebemos o Heisenberg que demonstrou o funcionamento de um equipamento de RF para alguns dos habituais.
 
-[Divulgação no Instagram](https://www.instagram.com/p/CsUQ_V3s6sY/)
+Divulgação no [Instagram](https://www.instagram.com/p/CsUQ_V3s6sY/) | [Facebook](https://www.facebook.com/photo/?fbid=709321687870129&set=a.465258912276409) | [Twitter](https://twitter.com/abcmakerspace/status/1658576909482053635)
 
-[Divulgação no Twitter / X](https://twitter.com/abcmakerspace/status/1658576909482053635)
-
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=709321687870129&set=a.465258912276409)
-
-[Imagens do encontro de 17/05/2023 no Instagram](https://www.instagram.com/p/CserCyFo6cK/)
-
-[Imagens do encontro de 17/05/2023 no Facebook](https://www.facebook.com/photo/?fbid=711397314329233&set=pcb.711397340995897)
+Imagens do encontro de 17/05/2023 no [Instagram](https://www.instagram.com/p/CserCyFo6cK/) | [Facebook](https://www.facebook.com/photo/?fbid=711397314329233&set=pcb.711397340995897)
 ________________________________________
 
 ## Encontro de 24/05/2023 Quarta
 
 Recebemos algumas visitas entre eles o Jomar, Felipe, Jeferson e alguns dos habituais.
 
-[Divulgação no Instagram](https://www.instagram.com/p/Csj7faBAfPY/)
+Divulgação no [Instagram](https://www.instagram.com/p/Csj7faBAfPY/) | [Facebook](https://www.facebook.com/photo/?fbid=713639774104987&set=a.465258912276409)
 
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=713639774104987&set=a.465258912276409)
-
-[Imagens do encontro de 24/05/2023 no Linkedin](https://www.linkedin.com/posts/abcmakerspace_algumas-imagens-de-nosso-encontro-no-wikilab-activity-7069050412972072961-nEEN?utm_source=share&utm_medium=member_desktop)
-
-[Imagens do encontro de 24/05/2023 no Instagram]() 
-
-[Imagens do encontro de 24/05/2023 no Facebook](https://www.facebook.com/photo?fbid=718492960286335&set=pcb.718493010286330)
+Imagens do encontro de 24/05/2023 no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_algumas-imagens-de-nosso-encontro-no-wikilab-activity-7069050412972072961-nEEN?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/Cs18mqctvDj/?img_index=1) | [Facebook](https://www.facebook.com/photo?fbid=718492960286335&set=pcb.718493010286330)
 ________________________________________
 
 ## Encontro de 31/05/2023 Quarta
 
 Algumas novas visitas, além de um "robô aspirador chinês".
 
-[Divulgação no Instagram](https://www.instagram.com/p/Cs34qAkvHKV/)
+Divulgação no [Instagram](https://www.instagram.com/p/Cs34qAkvHKV/) | [Facebook](https://www.facebook.com/photo/?fbid=719008276901470&set=a.465258912276409)
 
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=719008276901470&set=a.465258912276409)
-
-[Imagens no Linkedin](https://www.linkedin.com/posts/abcmakerspace_algumas-imagens-de-nosso-encontro-no-dia-activity-7070450030926512128-AxxB?utm_source=share&utm_medium=member_desktop)
-
-[Imagens no Instagram](https://www.instagram.com/p/Cs9xKM-OblW/)
-
-[Imagens no Twitter / X](https://twitter.com/abcmakerspace/status/1664392002866118656)
-
-[Imagens no Facebook](https://www.facebook.com/photo/?fbid=720695793399385&set=pcb.720695896732708)
-
+Imagens do encontro de 31/05/2023 no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_algumas-imagens-de-nosso-encontro-no-dia-activity-7070450030926512128-AxxB?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/Cs9xKM-OblW/) | [Twitter](https://twitter.com/abcmakerspace/status/1664392002866118656) | [Facebook](https://www.facebook.com/photo/?fbid=720695793399385&set=pcb.720695896732708)
 ________________________________________
 
 ## Encontro de 07/06/2023 Quarta
 
-[Divulgação no Linkedin](https://www.linkedin.com/posts/abcmakerspace_aproveite-a-v%C3%A9spera-de-feriado-para-visitar-activity-7072158392827490304-LHz2?utm_source=share&utm_medium=member_desktop)
+Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_aproveite-a-v%C3%A9spera-de-feriado-para-visitar-activity-7072158392827490304-LHz2?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/CtH-nvGNWQ4/) | [Facebook](https://www.facebook.com/photo/?fbid=723322816470016&set=a.465258912276409) | [Twitter](https://twitter.com/abcmakerspace/status/1665800153142534145)
 
-[Divulgação no Instagram](https://www.instagram.com/p/CtH-nvGNWQ4/)
-
-[Divulgação no Twitter / X](https://twitter.com/abcmakerspace/status/1665800153142534145)
-
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=723322816470016&set=a.465258912276409)
-
-[Imagens do encontro de 07/06/2023 no Instagram](https://www.instagram.com/p/CtW_70mPj2V/?img_index=5)
-
-[Imagens do encontro de 07/06/2023 no Facebook](https://www.facebook.com/photo?fbid=727762439359387&set=pcb.727762526026045)
+Imagens do encontro de 07/06/2023 no [Instagram](https://www.instagram.com/p/CtW_70mPj2V/?img_index=5) | [Facebook](https://www.facebook.com/photo?fbid=727762439359387&set=pcb.727762526026045)
 ________________________________________
-
 
 ## Arraial do WikiLab 21/06/2023 Quarta
 
 Esquecemos de tirar fotos no dia.
 
-[Divulgação no Instagram](https://www.instagram.com/p/Ctt2eyyJ3pV/)
-
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=733376955464602&set=a.465258912276409)
-
+Divulgação no [Instagram](https://www.instagram.com/p/Ctt2eyyJ3pV/) | [Facebook](https://www.facebook.com/photo/?fbid=733376955464602&set=a.465258912276409)
 ________________________________________
-
 
 ## Encontro de 05/07/2023 Quarta
 
 Recebemos o Gutem, Mike e Gabu pela primeira vez, além dos integrantes habituais, não houve divulgação fora do grupo do telegram.
 
-[Imagens do encontro de 05/07/2023 no Instagram](https://www.instagram.com/p/CuXzRYgPPkj/?img_index=5)
-
-[Imagens do encontro de 05/07/2023 no Facebook](https://www.facebook.com/photo/?fbid=745445374257760&set=pcb.745445464257751)
+Imagens do encontro de 05/07/2023 no [Instagram](https://www.instagram.com/p/CuXzRYgPPkj/?img_index=5) | [Facebook](https://www.facebook.com/photo/?fbid=745445374257760&set=pcb.745445464257751)
 ________________________________________
-
 
 ## Esquenta [RoadSec 2023](https://www.roadsec.com.br/) 12/07/2023 Quarta
 
 
 
-[Divulgação no Instagram](https://www.instagram.com/p/CuiGcYmxh7L/)
-
-[Divulgação no Twitter / X](https://twitter.com/abcmakerspace/status/1678521477027561472)
-
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=748342550634709&set=a.465258912276409)
-
+Divulgação no [Instagram](https://www.instagram.com/p/CuiGcYmxh7L/) | [Facebook](https://www.facebook.com/photo/?fbid=748342550634709&set=a.465258912276409) | [Twitter](https://twitter.com/abcmakerspace/status/1678521477027561472)
 
 ________________________________________
 
@@ -350,41 +290,23 @@ ________________________________________
 
 Não houve divulgação nas redes sociais, apenas no grupo do telegram.
 
-[Imagens do encontro de 19/07/2023 no Instagram](https://www.instagram.com/p/CvA__IKvtsc/)
-
-[Imagens do encontro de 19/07/2023 no Facebook](https://www.facebook.com/photo/?fbid=756202003182097&set=a.465258912276409)
-
+Imagens do encontro de 19/07/2023 no [Instagram](https://www.instagram.com/p/CvA__IKvtsc/) | [Facebook](https://www.facebook.com/photo/?fbid=756202003182097&set=a.465258912276409)
 ________________________________________
-
 
 ## Encontro de 03/08/2023 Quinta
 
 Atendendo a pedidos do grupo do telegram, a partir desta data até o final de 2023, pretendemos nos reunir na maioria das quintas.
 
-[Divulgação no Linkedin](https://www.linkedin.com/posts/abcmakerspace_aten%C3%A7%C3%A3o-a-partir-desta-semana-provisoriamente-activity-7092264921257639936-LEij?utm_source=share&utm_medium=member_desktop)
+Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_aten%C3%A7%C3%A3o-a-partir-desta-semana-provisoriamente-activity-7092264921257639936-LEij?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/CvazXeNIblX/) | [Facebook](https://www.facebook.com/photo/?fbid=762777685857862&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1686498377414889472)
 
-[Divulgação no Instagram](https://www.instagram.com/p/CvazXeNIblX/)
-
-[Divulgação no Twitter / X](https://twitter.com/abcmakerspace/status/1686498377414889472)
-
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=762777685857862&set=a.465258912276409)
-
-[Imagens do encontro de 03/08/2023 no Linkedin](https://www.linkedin.com/posts/abcmakerspace_imagens-do-nosso-%C3%BAltimo-encontro-na-quinta-activity-7094448116107476993-bHxQ?utm_source=share&utm_medium=member_desktop)
-
-[Imagens do encontro de 03/08/2023 no Instagram](https://www.instagram.com/p/CvqF2dRNCfJ/)
-
-[Imagens do encontro de 03/08/2023 no Twitter / X](https://twitter.com/abcmakerspace/status/1688630085476118529)
-
-[Imagens do encontro de 03/08/2023 no Facebook](https://www.facebook.com/photo?fbid=766707868798177&set=pcb.766707978798166)
+Imagens do encontro de 03/08/2023 no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_imagens-do-nosso-%C3%BAltimo-encontro-na-quinta-activity-7094448116107476993-bHxQ?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/CvqF2dRNCfJ/) | [Facebook](https://www.facebook.com/photo?fbid=766707868798177&set=pcb.766707978798166) | [Twitter / X](https://twitter.com/abcmakerspace/status/1688630085476118529)
 ________________________________________
-
 
 ## Encontro de 10/08/2023 Quinta
 
 Não houve divulgação nas redes sociais, combinamos ditetamente pelo grupo do Telegram.
 
-[Imagens do encontro de 10/08/2023 no Instagram](https://www.instagram.com/p/Cv0X0uAur_F/?img_index=6)
-
+Imagens do encontro de 10/08/2023 no [Instagram](https://www.instagram.com/p/Cv0X0uAur_F/?img_index=6)
 
 ________________________________________
 
@@ -392,18 +314,11 @@ ________________________________________
 
 Arte criada por aplicativo de I.A. com adição de logos e texto de forma manual.
 
-[Divulgação no Linkedin](https://www.linkedin.com/posts/abcmakerspace_participe-do-nosso-esquenta-para-o-the-developers-activity-7100248104464973824-sW23?utm_source=share&utm_medium=member_desktop)
+Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_participe-do-nosso-esquenta-para-o-the-developers-activity-7100248104464973824-sW23?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/CwQ5tIQOkF4/) | [Facebook](https://www.facebook.com/photo/?fbid=776488541153443&set=pb.100063769111466.-2207520000) | [Twitter / X](https://twitter.com/abcmakerspace/status/1694046783851380997)
 
-[Divulgação no Instagram](https://www.instagram.com/p/CwQ5tIQOkF4/)
-
-[Divulgação no Twitter / X](https://twitter.com/abcmakerspace/status/1694046783851380997)
-
-[Divulgação no Facebook](https://www.facebook.com/photo/?fbid=776488541153443&set=pb.100063769111466.-2207520000)
-
-[Imagens do encontro de 24/08/2023 no Instagram](https://www.instagram.com/p/CwYPjBNu6sB/)
-
-[Imagens do encontro de 24/08/2023 no Facebook](https://www.facebook.com/photo?fbid=778457754289855&set=pcb.778458774289753)
+Imagens do encontro de 24/08/2023 no [Instagram](https://www.instagram.com/p/CwYPjBNu6sB/) | [Facebook](https://www.facebook.com/photo?fbid=778457754289855&set=pcb.778458774289753)
 ________________________________________
+
 
 # Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
 
@@ -414,21 +329,9 @@ ________________________________________
 
 Preparação de uma máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/).
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 31/08/2023 no Linkedin]()
-
->[Imagens do encontro de 31/08/2023 no Instagram]()
-
->[Imagens do encontro de 31/08/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 31/08/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 
@@ -436,42 +339,18 @@ ________________________________________
 
 Devido o feriado de 7 de setembro nesta semana nos reuniremos na quarta.Faremos o hardening da máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/).
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 06/09/2023 no Linkedin]()
-
->[Imagens do encontro de 06/09/2023 no Instagram]()
-
->[Imagens do encontro de 06/09/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 06/09/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  14/09/2023 Quinta
 
 2º Esquenta [TDC Business](https://thedevconf.com/tdc/2023/business/)
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 14/09/2023 no Linkedin]()
-
->[Imagens do encontro de 14/09/2023 no Instagram]()
-
->[Imagens do encontro de 14/09/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 14/09/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  21/09/2023 Quinta
@@ -485,291 +364,122 @@ ________________________________________
 
 
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 28/09/2023 no Linkedin]()
-
->[Imagens do encontro de 28/09/2023 no Instagram]()
-
->[Imagens do encontro de 28/09/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 28/09/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  05/10/2023 Quinta
 
 
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 05/10/2023 no Linkedin]()
-
->[Imagens do encontro de 05/10/2023 no Instagram]()
-
->[Imagens do encontro de 05/10/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 05/10/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  11/10/2023 Quarta
 
 Devido o feriado na quinta 12/10 nos reuniremos na quarta (véspera de feriado).
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 11/10/2023 no Linkedin]()
-
->[Imagens do encontro de 11/10/2023 no Instagram]()
-
->[Imagens do encontro de 11/10/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 11/10/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  19/10/2023 Quinta
 
 
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 19/10/2023 no Linkedin]()
-
->[Imagens do encontro de 19/10/2023 no Instagram]()
-
->[Imagens do encontro de 19/10/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 19/10/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  26/10/2023 Quinta
 
 
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 26/10/2023 no Linkedin]()
-
->[Imagens do encontro de 26/10/2023 no Instagram]()
-
->[Imagens do encontro de 26/10/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 26/10/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 01/11/2023 Quarta
 
 Devido o feriado de 02/11 nos reuniremos na quarta (véspera de feriado).
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 01/11/2023 no Linkedin]()
-
->[Imagens do encontro de 01/11/2023 no Instagram]()
-
->[Imagens do encontro de 01/11/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 01/11/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 09/11/2023 Quinta
 
 
 
->[Divulgação no Linkedin]()
+> [Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 09/11/2023 no Linkedin]()
-
->[Imagens do encontro de 09/11/2023 no Instagram]()
-
->[Imagens do encontro de 09/11/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 09/11/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 16/11/2023 Quinta
 
 
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 16/11/2023 no Linkedin]()
-
->[Imagens do encontro de 16/11/2023 no Instagram]()
-
->[Imagens do encontro de 16/11/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 16/11/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 23/11/2023 Quinta
 
 
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 23/11/2023 no Linkedin]()
-
->[Imagens do encontro de 23/11/2023 no Instagram]()
-
->[Imagens do encontro de 23/11/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 23/11/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 30/11/2023 Quinta
 
 
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 30/11/2023 no Linkedin]()
-
->[Imagens do encontro de 30/11/2023 no Instagram]()
-
-[Imagens do encontro de 30/11/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 30/11/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 07/12/2023 Quinta
 
 Esquenta para o [H2HC](https://www.h2hc.com.br/).
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 07/12/2023 no Linkedin]()
-
->[Imagens do encontro de 07/12/2023 no Instagram]()
-
->[Imagens do encontro de 07/12/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 07/12/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 14/12/2023 Quinta
 
 
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 14/12/2023 no Linkedin]()
-
->[Imagens do encontro de 14/12/2023 no Instagram]()
-
->[Imagens do encontro de 14/12/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 14/12/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 21/12/2023 Quinta
 
 
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de 21/12/2023 no Linkedin]()
-
->[Imagens do encontro de 21/12/2023 no Instagram]()
-
->[Imagens do encontro de 21/12/2023 no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de 21/12/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 
 
->[Divulgação no Linkedin]()
+> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
->[Divulgação no Instagram]()
-
->[Divulgação no Facebook]()
-
->[Divulgação no Twitter / X]()
-
->[Imagens do encontro de  no Linkedin]()
-
->[Imagens do encontro de  no Instagram]()
-
->[Imagens do encontro de  no Facebook]()
-
->[Imagens do encontro de  no Twitter / X]()
+> Imagens do encontro de  no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
-
