@@ -319,19 +319,18 @@ Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_particip
 Imagens do encontro de 24/08/2023 no [Instagram](https://www.instagram.com/p/CwYPjBNu6sB/) | [Facebook](https://www.facebook.com/photo?fbid=778457754289855&set=pcb.778458774289753)
 ________________________________________
 
-
-# Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
-
-________________________________________
-
-
 ##  31/08/2023 Quinta
 
 Preparação de uma máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/).
 
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
+> Divulgação no [Linkedin](https://www.linkedin.com/events/debianday7101510757166530560/comments/) | [Instagram]() | [Facebook]() | [Twitter / X](https://twitter.com/abcmakerspace/status/1696220349359342047/photo/1)
 
-> Imagens do encontro de 31/08/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
+
+________________________________________
+
+
+# Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
+
 ________________________________________
 
 
@@ -339,147 +338,77 @@ ________________________________________
 
 Devido o feriado de 7 de setembro nesta semana nos reuniremos na quarta.Faremos o hardening da máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/).
 
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 06/09/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  14/09/2023 Quinta
 
 2º Esquenta [TDC Business](https://thedevconf.com/tdc/2023/business/)
 
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 14/09/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  21/09/2023 Quinta
 
 Esta semana estaremos no [TDC Business](https://thedevconf.com/tdc/2023/business/), não haverá encontro no [WikiLab](https://www.facebook.com/wikilab.abc/).
 
-
 ________________________________________
 
 ##  28/09/2023 Quinta
 
-
-
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 28/09/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  05/10/2023 Quinta
 
-
-
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 05/10/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  11/10/2023 Quarta
 
 Devido o feriado na quinta 12/10 nos reuniremos na quarta (véspera de feriado).
 
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 11/10/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  19/10/2023 Quinta
 
-
-
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 19/10/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ##  26/10/2023 Quinta
 
-
-
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 26/10/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 01/11/2023 Quarta
 
 Devido o feriado de 02/11 nos reuniremos na quarta (véspera de feriado).
 
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 01/11/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 09/11/2023 Quinta
 
-
-
-> [Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 09/11/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 16/11/2023 Quinta
 
-
-
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 16/11/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 23/11/2023 Quinta
 
-
-
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 23/11/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 30/11/2023 Quinta
 
-
-
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 30/11/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
-## 07/12/2023 Quinta
+## Esquenta H2HC 07/12/2023 Quinta
 
 Esquenta para o [H2HC](https://www.h2hc.com.br/).
 
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 07/12/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 ## 14/12/2023 Quinta
 
-
-
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 14/12/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-________________________________________
-
-## 21/12/2023 Quinta
-
-
-
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-
-> Imagens do encontro de 21/12/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
 
 
 
 > Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
-> Imagens do encontro de  no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
+> Imagens do encontro de XX/XX/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
