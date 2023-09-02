@@ -319,12 +319,18 @@ Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_particip
 Imagens do encontro de 24/08/2023 no [Instagram](https://www.instagram.com/p/CwYPjBNu6sB/) | [Facebook](https://www.facebook.com/photo?fbid=778457754289855&set=pcb.778458774289753)
 ________________________________________
 
-##  31/08/2023 Quinta
+##  Debian Day 31/08/2023 Quinta
 
 Preparação de uma máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/).
 
-> Divulgação no [Linkedin](https://www.linkedin.com/events/debianday7101510757166530560/comments/) | [Instagram]() | [Facebook]() | [Twitter / X](https://twitter.com/abcmakerspace/status/1696220349359342047/photo/1)
+> Divulgação no [Linkedin](https://www.linkedin.com/events/debianday7101510757166530560/comments/) | [Instagram](https://www.instagram.com/p/CwgRZ1wq1Ez/) | [Facebook](https://www.facebook.com/photo/?fbid=780556107413353&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1696220349359342047/photo/1)
 
+> Imagens do encontro de 31/08/2023 no [Linkedin](https://www.linkedin.com/company/94836596/admin/feed/posts/#) | [Instagram](https://www.instagram.com/p/Cwst5-dNjRS/) | [Facebook](https://www.facebook.com/photo/?fbid=783224810479816&set=pcb.783224860479811) | [Twitter / X](https://twitter.com/abcmakerspace/status/1697621726765387907)
+________________________________________
+
+##  06/09/2023 Quarta (Véspera de feriado)
+
+Devido o feriado de 7 de setembro nesta semana nos reuniremos na quarta.Faremos o hardening da máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/) e iniciaremos o upgrade na iluminação do [WikiLab](https://www.facebook.com/wikilab.abc/).
 
 ________________________________________
 
@@ -334,11 +340,7 @@ ________________________________________
 ________________________________________
 
 
-##  06/09/2023 Quarta (Véspera de feriado)
 
-Devido o feriado de 7 de setembro nesta semana nos reuniremos na quarta.Faremos o hardening da máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/).
-
-________________________________________
 
 ##  14/09/2023 Quinta
 
