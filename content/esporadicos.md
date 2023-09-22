@@ -330,27 +330,31 @@ ________________________________________
 
 ##  06/09/2023 Quarta (Véspera de feriado)
 
-Devido o feriado de 7 de setembro nesta semana nos reuniremos na quarta.Faremos o hardening da máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/) e iniciaremos o upgrade na iluminação do [WikiLab](https://www.facebook.com/wikilab.abc/).
+Devido o feriado de 7 de setembro nesta semana nos reunimos na quarta. Hardening da máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/) e iniciamos o upgrade na iluminação do [WikiLab](https://www.facebook.com/wikilab.abc/), inauguração da "adesivoteca".
+
+> Divulgação no [Instagram](https://www.instagram.com/p/CwxpxHjvOyX/) | [Facebook](https://www.facebook.com/photo/?fbid=784516443683986&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1698389140138754526)
+
+Imagens do encontro de 06/09/2023 no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7105998564555698176/) | [Instagram](https://www.instagram.com/p/Cw8mI2dPJXN/) | [Facebook](https://www.facebook.com/photo?fbid=788041026664861&set=pcb.788041109998186) | [Twitter / X](https://twitter.com/abcmakerspace/status/1700230523669410061)
+
 
 ________________________________________
-
-
-# Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
-
-________________________________________
-
-
-
 
 ##  14/09/2023 Quinta
 
 2º Esquenta [TDC Business](https://thedevconf.com/tdc/2023/business/)
 
+Sem registros deste encontro.
+
 ________________________________________
 
 ##  21/09/2023 Quinta
 
-Esta semana estaremos no [TDC Business](https://thedevconf.com/tdc/2023/business/), não haverá encontro no [WikiLab](https://www.facebook.com/wikilab.abc/).
+Esta semana estaremos no [TDC Business](https://thedevconf.com/tdc/2023/business/), não ocorreu encontro no [WikiLab](https://www.facebook.com/wikilab.abc/).
+
+________________________________________
+
+
+# Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
 
 ________________________________________
 
@@ -370,10 +374,13 @@ ________________________________________
 
 ##  19/10/2023 Quinta
 
+Semana da LatinoWare
+
 ________________________________________
 
 ##  26/10/2023 Quinta
 
+Aquecimento para o [aniversário de 12 anos do Laboratório Hacker de Campinas (LHC)](https://eventos.lhc.net.br/event/aniversario-de-12-anos-do-laboratorio-hacker-de-campinas)
 ________________________________________
 
 ## 01/11/2023 Quarta
@@ -383,6 +390,8 @@ Devido o feriado de 02/11 nos reuniremos na quarta (véspera de feriado).
 ________________________________________
 
 ## 09/11/2023 Quinta
+
+Semana do aniversário de 6 anos do WikiLab.
 
 ________________________________________
 
