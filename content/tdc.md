@@ -1,7 +1,7 @@
 +++ 
 date = "2022-09-03T09:24:07-03:00" 
 title = "The Developer's Conference" 
-description = "Nossas visitas e participações no TDC SP (The Developer's Conference) em 2015, 2016 e 2017." 
+description = "Nossas visitas e participações no TDC SP (The Developer's Conference) em 2015, 2016, 2017 e 2023." 
 tags = ["evento", "thedevconf", "tdc"]
 
 +++
