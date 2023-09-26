@@ -1,7 +1,7 @@
 +++ 
 date = "2022-09-03T10:24:07-03:00" 
 title = "RoadSec São Paulo" 
-description = "Nossas participações na RoadSec SP de 2016 a 2022, na área de comunidades." 
+description = "Nossas participações na RoadSec SP de 2016 a 2023." 
 tags = ["evento", "roadsec"]
 
 +++
