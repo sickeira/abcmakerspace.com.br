@@ -323,16 +323,16 @@ ________________________________________
 
 Preparação de uma máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/).
 
-> Divulgação no [Linkedin](https://www.linkedin.com/events/debianday7101510757166530560/comments/) | [Instagram](https://www.instagram.com/p/CwgRZ1wq1Ez/) | [Facebook](https://www.facebook.com/photo/?fbid=780556107413353&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1696220349359342047/photo/1)
+Divulgação no [Linkedin](https://www.linkedin.com/events/debianday7101510757166530560/comments/) | [Instagram](https://www.instagram.com/p/CwgRZ1wq1Ez/) | [Facebook](https://www.facebook.com/photo/?fbid=780556107413353&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1696220349359342047/photo/1)
 
-> Imagens do encontro de 31/08/2023 no [Linkedin](https://www.linkedin.com/company/94836596/admin/feed/posts/#) | [Instagram](https://www.instagram.com/p/Cwst5-dNjRS/) | [Facebook](https://www.facebook.com/photo/?fbid=783224810479816&set=pcb.783224860479811) | [Twitter / X](https://twitter.com/abcmakerspace/status/1697621726765387907)
+Imagens do encontro de 31/08/2023 no [Linkedin](https://www.linkedin.com/company/94836596/admin/feed/posts/#) | [Instagram](https://www.instagram.com/p/Cwst5-dNjRS/) | [Facebook](https://www.facebook.com/photo/?fbid=783224810479816&set=pcb.783224860479811) | [Twitter / X](https://twitter.com/abcmakerspace/status/1697621726765387907)
 ________________________________________
 
 ##  06/09/2023 Quarta (Véspera de feriado)
 
-Devido o feriado de 7 de setembro nesta semana nos reunimos na quarta. Hardening da máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/) e iniciamos o upgrade na iluminação do [WikiLab](https://www.facebook.com/wikilab.abc/), inauguração da "adesivoteca".
+Devido o feriado de 7 de setembro nesta semana nos reunimos na quarta. Algumas das atividades foram o hardening da máquina para servidor [Debian](https://www.debian.org/index.pt.html) no rack do [WikiLab](https://www.facebook.com/wikilab.abc/) e iniciamos o upgrade na iluminação do [WikiLab](https://www.facebook.com/wikilab.abc/), inauguração da "adesivoteca".
 
-> Divulgação no [Instagram](https://www.instagram.com/p/CwxpxHjvOyX/) | [Facebook](https://www.facebook.com/photo/?fbid=784516443683986&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1698389140138754526)
+Divulgação no [Instagram](https://www.instagram.com/p/CwxpxHjvOyX/) | [Facebook](https://www.facebook.com/photo/?fbid=784516443683986&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1698389140138754526)
 
 Imagens do encontro de 06/09/2023 no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7105998564555698176/) | [Instagram](https://www.instagram.com/p/Cw8mI2dPJXN/) | [Facebook](https://www.facebook.com/photo?fbid=788041026664861&set=pcb.788041109998186) | [Twitter / X](https://twitter.com/abcmakerspace/status/1700230523669410061)
 
@@ -349,26 +349,42 @@ ________________________________________
 
 ##  21/09/2023 Quinta
 
-Esta semana estaremos no [TDC Business](https://thedevconf.com/tdc/2023/business/), não ocorreu encontro no [WikiLab](https://www.facebook.com/wikilab.abc/).
+Esta semana estivemos no [TDC Business](https://thedevconf.com/tdc/2023/business/), não ocorreu encontro no [WikiLab](https://www.facebook.com/wikilab.abc/).
 
 ________________________________________
 
-
-# Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
-
-________________________________________
 
 ##  28/09/2023 Quinta
+
+Neste dia o professor Rogério fez a transmissão do [Webinar Machine Learning aplicado em Sistemas Embarcados](https://embarcados.com.br/webinar-machine-learning-aplicado-em-sistemas-embarcados/), pelo portal do [Embarcados](https://embarcados.com.br/), diretamente do [WikiLab](https://www.facebook.com/wikilab.abc).
+
+Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_nesta-quinta-28092023-teremos-a-transmiss%C3%A3o-activity-7112363283256348672-tjXK/?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/CxoQyjuCyHb/) | [Facebook](https://www.facebook.com/photo/?fbid=801845501951080&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1706704683472195773)
+
+Imagens do encontro de 28/09/2023 no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_imagens-do-backstage-da-transmiss%C3%A3o-do-activity-7114706595095179264-LggX/?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/Cx0mcKTvVa2/?img_index=4) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0uMVbJ3mXBfNdKMZnXEhLqKi8jJt3Jc2ix2aXc14QB1eUGhaanGaHGL6RhGdZqAjul) | [Twitter / X](https://twitter.com/abcmakerspace/status/1708165559605690869)
 
 ________________________________________
 
 ##  05/10/2023 Quinta
 
+Realizado um multirão de limpeza do [WikiLab](https://www.facebook.com/wikilab.abc).
+
+Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_programa%C3%A7%C3%A3o-de-encontros-de-outubro-os-temas-activity-7115722843975278592-929U/?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/Cx3mr24swWs/) | [Facebook](https://www.facebook.com/photo?fbid=804463185022645&set=a.465258912276409) 
+
+Imagens do encontro de 05/10/2023 no [Instagram](https://www.instagram.com/p/CyGoC8biuve/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02EcpemYTjLNdNbyGAdNio82sfhjNvXWF72138XqnPoYv7g9fdzwexo1j7Z8ddhxzQl) | [Twitter / X](https://twitter.com/abcmakerspace/status/1711448999884955969/photo/1)
 ________________________________________
 
 ##  11/10/2023 Quarta
 
 Devido o feriado na quinta 12/10 nos reuniremos na quarta (véspera de feriado).
+
+Divulgação no [Instagram]() | [Facebook]() | [Twitter / X](https://twitter.com/abcmakerspace/status/1711481795525439528)
+
+Imagens do encontro de 06/09/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
+
+________________________________________
+
+
+# Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
 
 ________________________________________
 
