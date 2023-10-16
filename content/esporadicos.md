@@ -377,9 +377,9 @@ ________________________________________
 
 Devido o feriado na quinta 12/10 nos reuniremos na quarta (véspera de feriado).
 
-Divulgação no [Instagram]() | [Facebook]() | [Twitter / X](https://twitter.com/abcmakerspace/status/1711481795525439528)
+Divulgação no [Instagram](https://www.instagram.com/p/CyOx5lhsZYc/) | [Facebook](https://www.facebook.com/photo?fbid=809823711153259&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1711481795525439528)
 
-Imagens do encontro de 06/09/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
+Imagens do encontro de 11/10/2023 no [Instagram](https://www.instagram.com/p/CyY-O1Ltxpl/?img_index=1) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0R8z2tBpe8BZipFobL6vNGujkjBc5wiW4vA7nBqd28aQvZG8WR43w8nLKuq8tPmFsl?notif_id=1697237299519506&notif_t=feedback_reaction_generic&ref=notif) | [Twitter / X](https://twitter.com/abcmakerspace/status/1713584329731760639)
 
 ________________________________________
 
@@ -390,7 +390,9 @@ ________________________________________
 
 ##  19/10/2023 Quinta
 
-Semana da LatinoWare
+Semana da LatinoWare, vamos acompanhar remotamente o evento no [WikiLab](https://www.facebook.com/wikilab.abc).
+
+Divulgação no [Instagram](https://www.instagram.com/p/Cybp1uOIVy8/) | [Facebook](https://www.facebook.com/photo?fbid=814142910721339&set=a.465258912276409)
 
 ________________________________________
 
