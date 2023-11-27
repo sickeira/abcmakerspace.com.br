@@ -382,48 +382,73 @@ Divulgação no [Instagram](https://www.instagram.com/p/CyOx5lhsZYc/) | [Faceboo
 Imagens do encontro de 11/10/2023 no [Instagram](https://www.instagram.com/p/CyY-O1Ltxpl/?img_index=1) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0R8z2tBpe8BZipFobL6vNGujkjBc5wiW4vA7nBqd28aQvZG8WR43w8nLKuq8tPmFsl?notif_id=1697237299519506&notif_t=feedback_reaction_generic&ref=notif) | [Twitter / X](https://twitter.com/abcmakerspace/status/1713584329731760639)
 
 ________________________________________
-
-
-# Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
-
-________________________________________
-
 ##  19/10/2023 Quinta
 
 Semana da LatinoWare, vamos acompanhar remotamente o evento no [WikiLab](https://www.facebook.com/wikilab.abc).
 
-Divulgação no [Instagram](https://www.instagram.com/p/Cybp1uOIVy8/) | [Facebook](https://www.facebook.com/photo?fbid=814142910721339&set=a.465258912276409)
+Divulgação no [Instagram](https://www.instagram.com/p/Cybp1uOIVy8/) | [Facebook](https://www.facebook.com/photo?fbid=814142910721339&set=a.465258912276409) | [Twitter/X](https://twitter.com/abcmakerspace/status/1713946652589891996)
+
+Imagens do encontro de 19/10/2023 no [Instagram](https://www.instagram.com/p/CyrGmq-tLXq/?img_index=5) | [Facebook](https://www.facebook.com/photo?fbid=817623180373312&set=pcb.817623250373305) | [Twitter / X](https://twitter.com/abcmakerspace/status/1715798857391415582)
 
 ________________________________________
 
 ##  26/10/2023 Quinta
 
-Aquecimento para o [aniversário de 12 anos do Laboratório Hacker de Campinas (LHC)](https://eventos.lhc.net.br/event/aniversario-de-12-anos-do-laboratorio-hacker-de-campinas)
+1ª Edição do Locktoberfest e Aquecimento para o [aniversário de 12 anos do Laboratório Hacker de Campinas (LHC)](https://eventos.lhc.net.br/event/aniversario-de-12-anos-do-laboratorio-hacker-de-campinas)
+
+Divulgação no [Instagram](https://www.instagram.com/p/Cyvt7oECjWr/) | [Facebook](https://www.facebook.com/photo/?fbid=818923776909919&set=a.465258912276409)
+
+Imagens do encontro de 26/10/2023 no [Instagram](https://www.instagram.com/p/Cy9PG4vJNu3/?img_index=1) | [Facebook](https://www.facebook.com/photo/?fbid=823026029833027&set=pcb.823026066499690)
 ________________________________________
 
 ## 01/11/2023 Quarta
 
 Devido o feriado de 02/11 nos reuniremos na quarta (véspera de feriado).
 
+Não houve divulgação nas redes sociais.
+
+Imagens do encontro de 01/11/2023 no [Instagram](https://www.instagram.com/p/CzPpopauaG7/?img_index=1) | [Facebook](https://www.facebook.com/photo/?fbid=827064136095883&set=pcb.827064166095880)
+
 ________________________________________
 
 ## 09/11/2023 Quinta
 
-Semana do aniversário de 6 anos do WikiLab.
+Aniversário de 6 anos do WikiLab, e tivemos até after.
+
+Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_nesta-quinta-09112023-a-partir-das-19h-activity-7127762156820807680-V8H8/?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/CzWm3-tO2lX/) | [Facebook](https://www.facebook.com/photo/?fbid=828263485975948&set=a.465258912276409)
+
+Imagens do encontro de 09/11/2023 no [Instagram](https://www.instagram.com/p/Czg2vOpoMjg/) | [Facebook](https://www.facebook.com/photo/?fbid=831278379007792&set=pcb.831278439007786)
 
 ________________________________________
 
 ## 16/11/2023 Quinta
 
+Participamos do Aaron Swartz Day #ASD23 organizado pelo [Instituto Aaron Swartz](https://institutoasw.org/)
+
+Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_nesta-quinta-09112023-a-partir-das-19h-activity-7127762156820807680-V8H8/?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/Czl5fEWhxhD/) | [Facebook](https://www.facebook.com/photo/?fbid=833234225478874&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1724147367652515923)
+
+Imagens do encontro de 16/11/2023 no [Instagram](https://www.instagram.com/p/Czuj4c-MNcM/) e [2](https://www.instagram.com/p/Czy4U08J0uR/) | [Facebook](https://www.facebook.com/photo/?fbid=835975121871451&set=pcb.835975158538114) | [Twitter / X](https://twitter.com/abcmakerspace/status/1725314878901018859)
 ________________________________________
 
 ## 23/11/2023 Quinta
 
+Troca de HDs em 2 notebooks por SSDs.
+
+Divulgação no [Instagram](https://www.instagram.com/p/Cz9m7jpK5bG/) | [Facebook](https://www.facebook.com/photo/?fbid=838645501604413&set=a.465258912276409)
+
+Imagens do encontro de 23/11/2023 no [Instagram](https://www.instagram.com/p/C0FHlzlJfB4/) | [Facebook](https://www.facebook.com/photo?fbid=840546681414295&set=pcb.840546748080955)
 ________________________________________
 
+
+# Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
+
+
+
+________________________________________
 ## 30/11/2023 Quinta
 
 ________________________________________
+
 
 ## Esquenta H2HC 07/12/2023 Quinta
 
