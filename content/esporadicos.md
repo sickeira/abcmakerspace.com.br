@@ -430,7 +430,7 @@ Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_nesta-qu
 Imagens do encontro de 16/11/2023 no [Instagram](https://www.instagram.com/p/Czuj4c-MNcM/) e [2](https://www.instagram.com/p/Czy4U08J0uR/) | [Facebook](https://www.facebook.com/photo/?fbid=835975121871451&set=pcb.835975158538114) | [Twitter / X](https://twitter.com/abcmakerspace/status/1725314878901018859)
 ________________________________________
 
-## 23/11/2023 Quinta
+## 23/11/2023 Quinta da Tempestade Cerebral
 
 Troca de HDs em 2 notebooks por SSDs.
 
@@ -439,13 +439,11 @@ Divulgação no [Instagram](https://www.instagram.com/p/Cz9m7jpK5bG/) | [Faceboo
 Imagens do encontro de 23/11/2023 no [Instagram](https://www.instagram.com/p/C0FHlzlJfB4/) | [Facebook](https://www.facebook.com/photo?fbid=840546681414295&set=pcb.840546748080955)
 ________________________________________
 
+## 30/11/2023 Quinta da Tempestade Cerebral
 
-# Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
+Divulgação no [Instagram](https://www.instagram.com/p/C0PvW8EJ2Zx/) | [Facebook](https://www.facebook.com/photo/?fbid=843010351167928&set=a.465258912276409)
 
-
-
-________________________________________
-## 30/11/2023 Quinta
+Imagens do encontro de 30/11/2023 no [Instagram](https://www.instagram.com/p/C0W0kLRMWKc/) | [Facebook](https://www.facebook.com/photo/?fbid=845180514284245&set=a.465258912276409)
 
 ________________________________________
 
@@ -454,9 +452,20 @@ ________________________________________
 
 Esquenta para o [H2HC](https://www.h2hc.com.br/).
 
+Divulgação no [Instagram](https://www.instagram.com/p/C0ZnCwzMaR1/) | [Facebook](https://www.facebook.com/photo/?fbid=846611417474488&set=a.465258912276409)
+
+Imagens do encontro de 07/12/2023 no [Instagram](https://www.instagram.com/p/C0pYcQkiahN/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02G1iC9Sp72rtT3qyLv8BiqXKKLnUvzJtYBTh9BsKZiZBkttX3x7FAa2KqwKhfME7l)
+
 ________________________________________
 
 ## 14/12/2023 Quinta
+
+Além da troca de cards do Masters of Pwnage, 
+
+Divulgação no [Instagram](https://www.instagram.com/p/C0xMJpKOoHv/) | [Facebook](https://www.facebook.com/photo/?fbid=852854333516863&set=a.465258912276409)
+
+Imagens do encontro de 14/12/2023 no [Instagram](https://www.instagram.com/p/C1A4O0zsdZL/) parte 1| [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0bAEyNbZyLwe9ygqGF7tPPFeFrCvtAfLLGMsztn7ot4Vtk7JtcTWFk1EpXyJBNWm6l) parte 1
+                                     [Instagram](https://www.instagram.com/p/C1FtMYbstDC/) parte 2| [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid024Vs2K8ZnLj8Nm5WPc6thYWeH7rNBQnK36SkZotJgrBEgUjnjZC7NdcS5L5maFfTdl) parte 2 
 
 ________________________________________
 
@@ -464,5 +473,5 @@ ________________________________________
 
 > Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
-> Imagens do encontro de XX/XX/2023 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
+> Imagens do encontro de XX/XX/2024 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 ________________________________________
