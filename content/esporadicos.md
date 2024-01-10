@@ -1,7 +1,7 @@
 +++ 
 date = "2023-08-03T03:24:07-03:00" 
 title = "Encontros esporádicos" 
-description = "Previsão de futuros encontros no WikiLab e um compilado dos encontros esporádicos realizados na história do ABC Makerspace" 
+description = "Histórico dos encontros no WikiLab e um compilado dos encontros esporádicos realizados na história do ABC Makerspace" 
 tags = ["encontro","esporadicos"]
 
 +++
@@ -9,9 +9,9 @@ tags = ["encontro","esporadicos"]
 
 Histórico de alguns de nossos encontros não fixos, nas antigas sedes de Santo André, no [Wikilab](https://www.facebook.com/wikilab.abc/) e inclusive alguns online durante a pandemia. Normalmente são uma série de encontros por um curto período de tempo, como as férias escolares, encontros únicos tematicos, ou de preparação para algum evento externo.
 
-Previsão de futuros encontros no WikiLab e um compilado dos encontros esporádicos realizados na história do ABC Makerspace.
+Encontros no WikiLab e um compilado dos encontros esporádicos realizados na história do ABC Makerspace.
 
-Datas propostas para próximos encontros, SUJEITAS A ALTERAÇÃO, acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
+Acompanhe nossas redes sociais para se manter atualizado, ou para propor uma atividade/visita.
 
 # 2015
 ## Encontro Entusiastas MSX
@@ -471,7 +471,4 @@ ________________________________________
 
 
 
-> Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
-> Imagens do encontro de XX/XX/2024 no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
-________________________________________
