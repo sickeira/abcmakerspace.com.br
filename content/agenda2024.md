@@ -15,53 +15,28 @@ Eventos Externos Interessantes que já tem data definida, retirados de [Eventos 
 ________________________________________
 
 
-# Fevereiro
-
-## 07/02/2024 - Primeiro Encontro de 2024
-
-Foi definido em quais eventos pretendemos participar no primeiro semestre de 2024, e quais queremos organizar internamente. Também realizamos o primeiro vídeo de teste da live do dia 07/02 no [YouTube](https://www.youtube.com/watch?v=I73khJPVFaE).
-
-Participação:
-[19ª BSides SP](https://securitybsides.com.br/2024/), [Campus Party SP](https://brasil.campus-party.org/), [RoadSec](https://www.roadsec.com.br/)
-
-Talvez organização - Arduino Day , FLISOL, Hardware Freedom Day, para isso precisamos de mais pessoas dispostas a participar.
-
-Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_nesta-quarta-07022024-vamos-definir-os-activity-7160419641851359232-rBUw?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/C2-FeoJoRlV/) | [Facebook](https://www.facebook.com/photo/?fbid=890857859716510&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1754516477380804885)
-
-Imagens do encontro de 07/02/2024 no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_primeiro-encontro-de-2024-no-wikilab-em-07-activity-7161466054429413378-A3Xj?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/C3Ifa8ov79j/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid03A8vYz9fE33ttKeZVpxH2fibZFFpWHWKEc87q2S1YL59J99AUCdDvQwNgYjtTQksl) | [Twitter / X](https://twitter.com/abcmakerspace/status/1755675892771168333)
-
-Corte para incentivo de leitura no [Instagram](https://www.instagram.com/reel/C3QwI7biI8P/)
-
-
-
-
-## 15/02/2024 - Limpeza e Organização
-
-Não fizemos divulgação deste encontro, foi marcado poucas horas antes pelo nosso grupo no Telegram. Aproveitamos para finalizar a poda interna, organizar as prateleiras e arrumar algumas outras coisas. Fizemos o segundo teste de live, desta vez sem áudio propositalmente, apenas para ver se conseguimos transmitir mais de uma hora ininterrupta, pode ser visto no [YouTube](https://www.youtube.com/watch?v=isqMDOCS2EU).
-
-Imagens do encontro de 15/02/2024 no [Instagram](https://www.instagram.com/p/C3daVH7ozwS/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02w1tguSQW25V447TVWRkUsbkKYHwmwsxwjRAVMiAWTyEtMvZ7dnWtTtNHeWumUPyQl)
-
-
-
-
-## 28/02/2024 - Android Privado
-
-
-________________________________________
-## Eventos Externos Interessantes de Fevereiro de 2024:
-
-Dia 6 e 7 - [Dia da Internet Segura](https://www.saferinternetday.org/) - Várias cidades do Mundo
-________________________________________
 
 # Março
 
-## 06/03 Semana [Open Data Day](https://opendataday.org/pt_br/)
+## 06/03/2024 Visita do Alessandro Cunha
 
-## 13/03
+Na quarta dia 06/03/2024 tivemos a visita do @afcunha01 no Wikilab, ele disse que a intenção era explodir mentes , veja no vídeo resumo o resultado
 
-## 20/03
+Imagem do encontro de 06/03/2024 no [Instagram]() | [Facebook]()
 
-## 27/03   
+Vídeo resumo do encontro de 06/03/2024 no [Instagram](https://www.instagram.com/reel/C4OSPDaBUkI/) | [Facebook](https://fb.watch/qJM1KmZfda/)
+
+Vídeo na integra e sem áudio devido direitos autorais no [YouTube](https://www.youtube.com/watch?v=wky__FIBklA)
+
+
+## 14/03/2024 Machine Learning em Sistemas Embarcados
+
+Excepcionalmente na quinta-feira, o esquenta para o [TDC Summit Inteligência Artificial SP](https://thedevconf.com/tdc/2024/summit-sao-paulo/), com o professor Rogério Dantas e o assunto é "Machine Learning em Sistemas Embarcados".
+
+
+## 20/03/2024
+
+## 27/03/2024   
 
 ________________________________________
 ## Eventos Externos Interessantes de Março de 2024:
@@ -103,9 +78,9 @@ ________________________________________
 
 ## 02/05 Na quinta devido o feriado
 
-## 08/05
+## 08/05 Aquecimento [CryptoRave 2024](https://2024.cryptorave.org/)
 
-## 15/05 Aquecimento BSides SP
+## 15/05 Aquecimento [19ª BSides SP](https://securitybsides.com.br/2024/)
 
 ## 22/05 
 
@@ -115,6 +90,8 @@ ________________________________________
 ## Eventos Externos Interessantes de Maio de 2024:
 
 Dias 4 e 5 - [BSides San Francisco](https://bsidessf.org/) nos Estados Unidos.
+
+Dias 10 e 11 - [CryptoRave 2024](https://2024.cryptorave.org/) na [Biblioteca Mário de Andrade](https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/bma/) em São Paulo.
 
 Dias 10 e 11 - [OffensiveCon](https://www.offensivecon.org/) na Alemanha. [CFP aberto](https://cfp.offensivecon.org/offensivecon24/cfp) até 02 de abril.
 
@@ -155,7 +132,7 @@ ________________________________________
 ________________________________________
 ## Eventos Externos Interessantes de Julho de 2024:
 
-Dias 9 a 14 - [Campus Party SP](https://brasil.campus-party.org/)
+Dias 9 a 14 - [Campus Party SP](https://brasil.campus-party.org/) no Expo Center Norte em São Paulo.
 
 Dia 13 - [CajuSec](https://www.cajusec.com.br/) em Aracaju-SE.
 ________________________________________
@@ -221,6 +198,51 @@ ________________________________________
 Dias 12 a 14 - [ShmooCon](https://www.shmoocon.org/) - Estados Unidos 
 ________________________________________
 
+# Fevereiro
+
+## 07/02/2024 - Primeiro Encontro de 2024
+
+Foi definido em quais eventos pretendemos participar no primeiro semestre de 2024, e quais queremos organizar internamente. Também realizamos o primeiro vídeo de teste da live do dia 07/02 no [YouTube](https://www.youtube.com/watch?v=I73khJPVFaE).
+
+Participação:
+[19ª BSides SP](https://securitybsides.com.br/2024/), [Campus Party SP](https://brasil.campus-party.org/), [RoadSec](https://www.roadsec.com.br/)
+
+Talvez organização - Arduino Day , FLISOL, Hardware Freedom Day, para isso precisamos de mais pessoas dispostas a participar.
+
+Divulgação no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_nesta-quarta-07022024-vamos-definir-os-activity-7160419641851359232-rBUw?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/C2-FeoJoRlV/) | [Facebook](https://www.facebook.com/photo/?fbid=890857859716510&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1754516477380804885)
+
+Imagens do encontro de 07/02/2024 no [Linkedin](https://www.linkedin.com/posts/abcmakerspace_primeiro-encontro-de-2024-no-wikilab-em-07-activity-7161466054429413378-A3Xj?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/C3Ifa8ov79j/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid03A8vYz9fE33ttKeZVpxH2fibZFFpWHWKEc87q2S1YL59J99AUCdDvQwNgYjtTQksl) | [Twitter / X](https://twitter.com/abcmakerspace/status/1755675892771168333)
+
+Corte para incentivo de leitura no [Instagram](https://www.instagram.com/reel/C3QwI7biI8P/)
+
+
+
+
+## 15/02/2024 - Limpeza e Organização
+
+Não fizemos divulgação deste encontro, foi marcado poucas horas antes pelo nosso grupo no Telegram. Aproveitamos para finalizar a poda interna, organizar as prateleiras e arrumar algumas outras coisas. Fizemos o segundo teste de live, desta vez sem áudio propositalmente, apenas para ver se conseguimos transmitir mais de uma hora ininterrupta, pode ser visto no [YouTube](https://www.youtube.com/watch?v=isqMDOCS2EU).
+
+Imagens do encontro de 15/02/2024 no [Instagram](https://www.instagram.com/p/C3daVH7ozwS/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02w1tguSQW25V447TVWRkUsbkKYHwmwsxwjRAVMiAWTyEtMvZ7dnWtTtNHeWumUPyQl)
+
+Vídeo na integra e sem áudio devido direitos autorais no [YouTube](https://www.youtube.com/watch?v=isqMDOCS2EU)
+
+
+## 28/02/2024 - Android Privado
+
+Apesar da chuva no final da tarde, ainda assim assistimos a primeira aula do @privacymap lá no Wikilab (UFABC SBC), estavamos prestando atenção e esquecemos de tirar fotos durante a transmissão.
+
+Divulgação no [Facebook](https://www.facebook.com/photo/?fbid=903823198419976&set=pb.100063769111466.-2207520000)
+
+Imagem do encontro de 28/02/2024 no [Instagram](https://www.instagram.com/p/C3_GaDrvgC2/) | [Facebook](https://www.facebook.com/photo/?fbid=908378467964449&set=pb.100063769111466.-2207520000)
+
+Vídeo resumo do encontro de 28/02/2024 no [Instagram](https://www.instagram.com/reel/C4WRlvHihsw/) | [Facebook](https://fb.watch/qJSQDm0duT/) | [Twitter / X](https://twitter.com/abcmakerspace/status/1766911453494202769)
+
+Vídeo na integra e sem áudio devido direitos autorais no [YouTube](https://www.youtube.com/watch?v=iEof55PlXjM)
+________________________________________
+## Eventos Externos Interessantes de Fevereiro de 2024:
+
+Dia 6 e 7 - [Dia da Internet Segura](https://www.saferinternetday.org/) - Várias cidades do Mundo
+________________________________________
 Postagem com prints dos nossos números nas redes sociais no final de 2023.
 [Linkedin](https://www.linkedin.com/posts/abcmakerspace_encerramos-2023-com-um-pequeno-aumento-de-activity-7148811500361584640-cd_A?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/C1p3MiAhqG7/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0EdmmK1cuoGGyiRoavddnXU5hfZAqsEKhrPpPgHaHh55vZ7L9Tuh8MHiBb4mEn9eCl) | [Twitter / X](https://twitter.com/abcmakerspace/status/1742603982856495433)
 
