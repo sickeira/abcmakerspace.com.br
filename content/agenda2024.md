@@ -22,7 +22,7 @@ ________________________________________
 
 Na quarta dia 06/03/2024 tivemos a visita do @afcunha01 no Wikilab, ele disse que a intenção era explodir mentes , veja no vídeo resumo o resultado
 
-Imagem do encontro de 06/03/2024 no [Instagram]() | [Facebook]()
+Imagens do encontro de 06/03/2024 no [Instagram](https://www.instagram.com/p/C47Lo1wp7sK/?img_index=1) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0y8mmk6kDAqpJDcRKxAU3wn3rpGVTuhAhycthf7JDYEguSacdDNjbdZx5J8TUzXxel) | [Twitter /X](https://twitter.com/abcmakerspace/status/1772114845598445843)
 
 Vídeo resumo do encontro de 06/03/2024 no [Instagram](https://www.instagram.com/reel/C4OSPDaBUkI/) | [Facebook](https://fb.watch/qJM1KmZfda/)
 
@@ -31,10 +31,25 @@ Vídeo na integra e sem áudio devido direitos autorais no [YouTube](https://www
 
 ## 14/03/2024 Machine Learning em Sistemas Embarcados
 
-Excepcionalmente na quinta-feira, o esquenta para o [TDC Summit Inteligência Artificial SP](https://thedevconf.com/tdc/2024/summit-sao-paulo/), com o professor Rogério Dantas e o assunto é "Machine Learning em Sistemas Embarcados".
+Excepcionalmente na quinta-feira, o esquenta para o [TDC Summit Inteligência Artificial SP](https://thedevconf.com/tdc/2024/summit-sao-paulo/), com o professor Rogério Dantas e o assunto foi "Machine Learning em Sistemas Embarcados".
+
+Divulgação do encontro de 14/03/2024 no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7173022746640039938/) | [Instagram](https://www.instagram.com/p/C4ZK-H9hZFK/) | [Facebook](https://www.facebook.com/photo?fbid=915359633932999&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1767274600046415896/photo/1)
+
+Imagens do encontro de 14/03/2024 no [Instagram](https://www.instagram.com/p/C4jQZ7cLpV0/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0uwDzMmT7sWJbxLW3QXu59AmeSndfPjr9E8warHjWjQ2kqq861qruuLfuXamXiGbZl)
+
+Reels/vídeo curto dos preparativos para o encontro de 14/03/2024 no [Instagram](https://www.instagram.com/reel/C4l1M7NLLkh/) | [Facebook](https://www.facebook.com/abcmakerspace/videos/936596284726465) | [Twitter / X](https://twitter.com/abcmakerspace/status/1769425718260158944)
+
+Caso tenha perdido essa conversa e queira assistir temos em [YouTube](https://www.youtube.com/watch?v=kOlb-M7vj9w)
 
 
-## 20/03/2024
+## 20/03/2024 Arduino Day 2024
+No Arduino Day 2024 do Wikilab tivemos o Emerson dando a primeira parte da aula do curso de arduino que ele leciona, no total são 15 horas, mas apresentou apenas a primeira hora e meia, uma introdução ao assunto.
+
+Divulgação do encontro de 20/03/2024 no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7175700750931476480/) | [Instagram](https://www.instagram.com/p/C4tqe2iCPSu/) | [Facebook](https://www.facebook.com/photo?fbid=921121786690117&set=a.465258912276409)
+
+Imagens do encontro de 20/03/2024 no [Instagram](https://www.instagram.com/p/C40h47IBqW3/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02wmhm89RDbgLY1A89D1FHT3zua4hRFrpx95J1NXkZ8trPSZBvtqZjB99Dk229w9cyl)
+
+Reels/vídeo curto dos preparativos para o encontro de 06/03/2024 no [Instagram](https://www.instagram.com/reel/C4y1nVLsR6r/) | [Facebook](https://www.facebook.com/abcmakerspace/videos/7034944653294503)
 
 ## 27/03/2024   
 
@@ -45,7 +60,7 @@ Dias 2 a 8 - [Open Data Day](https://opendataday.org/pt_br/)
 
 Dia 7 - Lançamento CPBR16
 
-Dias 21 a 23 - [Arduino Day](https://day.arduino.cc/streaming)
+Dias 21 a 23 - [Arduino Days 2024](https://day.arduino.cc/streaming)
 
 Dia 23 - [TosConf](https://tosconf.lhc.net.br/) no [Laboratório Hacker de Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal)
 
@@ -78,9 +93,9 @@ ________________________________________
 
 ## 02/05 Na quinta devido o feriado
 
-## 08/05 Aquecimento [CryptoRave 2024](https://2024.cryptorave.org/)
+## 08/05 Esquenta para [CryptoRave 2024](https://2024.cryptorave.org/)
 
-## 15/05 Aquecimento [19ª BSides SP](https://securitybsides.com.br/2024/)
+## 15/05 Esquenta para [19ª BSides SP](https://securitybsides.com.br/2024/)
 
 ## 22/05 
 
