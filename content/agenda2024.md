@@ -16,132 +16,17 @@ ________________________________________
 
 
 
-# Março
-
-## 06/03/2024 Visita do Alessandro Cunha
-
-Na quarta dia 06/03/2024 tivemos a visita do @afcunha01 no Wikilab, ele disse que a intenção era explodir mentes , veja no vídeo resumo o resultado
-
-Imagens do encontro de 06/03/2024 no [Instagram](https://www.instagram.com/p/C47Lo1wp7sK/?img_index=1) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0y8mmk6kDAqpJDcRKxAU3wn3rpGVTuhAhycthf7JDYEguSacdDNjbdZx5J8TUzXxel) | [Twitter /X](https://twitter.com/abcmakerspace/status/1772114845598445843)
-
-Vídeo resumo do encontro de 06/03/2024 no [Instagram](https://www.instagram.com/reel/C4OSPDaBUkI/) | [Facebook](https://fb.watch/qJM1KmZfda/)
-
-Vídeo na integra e sem áudio devido direitos autorais no [YouTube](https://www.youtube.com/watch?v=wky__FIBklA)
-
-
-## 14/03/2024 Machine Learning em Sistemas Embarcados
-
-Excepcionalmente na quinta-feira, o esquenta para o [TDC Summit Inteligência Artificial SP](https://thedevconf.com/tdc/2024/summit-sao-paulo/), com o professor Rogério Dantas e o assunto foi "Machine Learning em Sistemas Embarcados".
-
-Divulgação do encontro de 14/03/2024 no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7173022746640039938/) | [Instagram](https://www.instagram.com/p/C4ZK-H9hZFK/) | [Facebook](https://www.facebook.com/photo?fbid=915359633932999&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1767274600046415896/photo/1)
-
-Imagens do encontro de 14/03/2024 no [Instagram](https://www.instagram.com/p/C4jQZ7cLpV0/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0uwDzMmT7sWJbxLW3QXu59AmeSndfPjr9E8warHjWjQ2kqq861qruuLfuXamXiGbZl)
-
-Reels/vídeo curto dos preparativos para o encontro de 14/03/2024 no [Instagram](https://www.instagram.com/reel/C4l1M7NLLkh/) | [Facebook](https://www.facebook.com/abcmakerspace/videos/936596284726465) | [Twitter / X](https://twitter.com/abcmakerspace/status/1769425718260158944)
-
-Caso tenha perdido essa conversa e queira assistir temos em [YouTube](https://www.youtube.com/watch?v=kOlb-M7vj9w)
-
-
-## 20/03/2024 Arduino Day 2024
-No Arduino Day 2024 do Wikilab tivemos o Emerson dando a primeira parte da aula do curso de arduino que ele leciona, no total são 15 horas, mas apresentou apenas a primeira hora e meia, uma introdução ao assunto.
-
-Divulgação do encontro de 20/03/2024 no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7175700750931476480/) | [Instagram](https://www.instagram.com/p/C4tqe2iCPSu/) | [Facebook](https://www.facebook.com/photo?fbid=921121786690117&set=a.465258912276409)
-
-Imagens do encontro de 20/03/2024 no [Instagram](https://www.instagram.com/p/C40h47IBqW3/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02wmhm89RDbgLY1A89D1FHT3zua4hRFrpx95J1NXkZ8trPSZBvtqZjB99Dk229w9cyl)
-
-Reels/vídeo curto dos preparativos para o encontro de 06/03/2024 no [Instagram](https://www.instagram.com/reel/C4y1nVLsR6r/) | [Facebook](https://www.facebook.com/abcmakerspace/videos/7034944653294503)
-
-## 27/03/2024   
-
-________________________________________
-## Eventos Externos Interessantes de Março de 2024:
-
-Dias 2 a 8 - [Open Data Day](https://opendataday.org/pt_br/)
-
-Dia 7 - Lançamento CPBR16
-
-Dias 21 a 23 - [Arduino Days 2024](https://day.arduino.cc/streaming)
-
-Dia 23 - [TosConf](https://tosconf.lhc.net.br/) no [Laboratório Hacker de Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal)
-
-Dias 26 e 27 - [TDC Summit Inteligência Artificial SP](https://thedevconf.com/tdc/2024/summit-sao-paulo/)
-
-Dia 30 - [Open Hackspace Day 2024](https://wiki.hackerspaces.org/Open_Hackspace_Day_2024)
-
-________________________________________
-
-# Abril
-
-## 03/04
-
-## 10/04
-
-## 17/04
-
-## 24/04
-
-
-________________________________________
-## Eventos Externos Interessantes de Abril de 2024:
-
-Dia 20 - [Hardware Freedom Day](https://www.softwarefreedomday.org/)
-
-Dia 24 - [FLISOL](https://flisol.info/FLISOL2023) em várias cidades da América Latina.
-________________________________________
-
-# Maio
-
-## 02/05 Na quinta devido o feriado
-
-## 08/05 Esquenta para [CryptoRave 2024](https://2024.cryptorave.org/)
-
-## 15/05 Esquenta para [19ª BSides SP](https://securitybsides.com.br/2024/)
-
-## 22/05 
-
-## 29/05 véspera de feriado
-
-________________________________________
-## Eventos Externos Interessantes de Maio de 2024:
-
-Dias 4 e 5 - [BSides San Francisco](https://bsidessf.org/) nos Estados Unidos.
-
-Dias 10 e 11 - [CryptoRave 2024](https://2024.cryptorave.org/) na [Biblioteca Mário de Andrade](https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/bma/) em São Paulo.
-
-Dias 10 e 11 - [OffensiveCon](https://www.offensivecon.org/) na Alemanha. [CFP aberto](https://cfp.offensivecon.org/offensivecon24/cfp) até 02 de abril.
-
-Dia 18 - [BSides Vix](https://bsides.vix.br/) em Vitória-ES.
-
-Dias 18 e 19 - [19ª BSides SP](https://securitybsides.com.br/2024/)
-________________________________________
-
-# Junho
-
-## 05/06 
-
-## 12/06 Especial tematico?
-
-## 19/06
-
-## 26/06
-
-________________________________________
-## Eventos Externos Interessantes de Junho de 2024:
-
-Dias 4 a 6 - [ExpoSec](https://exposec.tmp.br/)
-________________________________________
-
 # Julho
 
-## 03/07
+## 04/07
 
 ## Dias 9 a 14 - [Campus Party SP](https://brasil.campus-party.org/)
 
-## 17/07
+## 18/07
 
-## 24/07
+## 25/07
 
-## 31/07
+
 
 
 ________________________________________
@@ -154,6 +39,19 @@ ________________________________________
 
 # Agosto
 
+## 01/08
+
+
+## 08/08
+
+
+## 15/08
+
+
+## 22/08
+
+
+## 29/08
 
 
 ________________________________________
@@ -165,7 +63,7 @@ Dias 3 a 8 - [BlackHat](https://www.blackhat.com/upcoming.html#usa) nos Estados 
 
 Dias 8 a 11 - [DefCon 32](https://defcon.org/) nos Estados Unidos.
 
-Dia 24 - [bxsec](https://bxsec.org/2024/)
+Dia 24 - [bxsec](https://bxsec.org/2024/) Santos-SP.
 ________________________________________
 
 # Setembro
@@ -260,6 +158,142 @@ Dia 6 e 7 - [Dia da Internet Segura](https://www.saferinternetday.org/) - Vária
 ________________________________________
 Postagem com prints dos nossos números nas redes sociais no final de 2023.
 [Linkedin](https://www.linkedin.com/posts/abcmakerspace_encerramos-2023-com-um-pequeno-aumento-de-activity-7148811500361584640-cd_A?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/C1p3MiAhqG7/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0EdmmK1cuoGGyiRoavddnXU5hfZAqsEKhrPpPgHaHh55vZ7L9Tuh8MHiBb4mEn9eCl) | [Twitter / X](https://twitter.com/abcmakerspace/status/1742603982856495433)
+
+# Março
+
+## 06/03/2024 Visita do Alessandro Cunha
+
+Na quarta dia 06/03/2024 tivemos a visita do @afcunha01 no Wikilab, ele disse que a intenção era explodir mentes , veja no vídeo resumo o resultado
+
+Imagens do encontro de 06/03/2024 no [Instagram](https://www.instagram.com/p/C47Lo1wp7sK/?img_index=1) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0y8mmk6kDAqpJDcRKxAU3wn3rpGVTuhAhycthf7JDYEguSacdDNjbdZx5J8TUzXxel) | [Twitter /X](https://twitter.com/abcmakerspace/status/1772114845598445843)
+
+Vídeo resumo do encontro de 06/03/2024 no [Instagram](https://www.instagram.com/reel/C4OSPDaBUkI/) | [Facebook](https://fb.watch/qJM1KmZfda/)
+
+Vídeo na integra e sem áudio devido direitos autorais no [YouTube](https://www.youtube.com/watch?v=wky__FIBklA)
+
+
+## 14/03/2024 Machine Learning em Sistemas Embarcados
+
+Excepcionalmente na quinta-feira, o esquenta para o [TDC Summit Inteligência Artificial SP](https://thedevconf.com/tdc/2024/summit-sao-paulo/), com o professor Rogério Dantas e o assunto foi "Machine Learning em Sistemas Embarcados".
+
+Divulgação do encontro de 14/03/2024 no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7173022746640039938/) | [Instagram](https://www.instagram.com/p/C4ZK-H9hZFK/) | [Facebook](https://www.facebook.com/photo?fbid=915359633932999&set=a.465258912276409) | [Twitter / X](https://twitter.com/abcmakerspace/status/1767274600046415896/photo/1)
+
+Imagens do encontro de 14/03/2024 no [Instagram](https://www.instagram.com/p/C4jQZ7cLpV0/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0uwDzMmT7sWJbxLW3QXu59AmeSndfPjr9E8warHjWjQ2kqq861qruuLfuXamXiGbZl)
+
+Reels/vídeo curto dos preparativos para o encontro de 14/03/2024 no [Instagram](https://www.instagram.com/reel/C4l1M7NLLkh/) | [Facebook](https://www.facebook.com/abcmakerspace/videos/936596284726465) | [Twitter / X](https://twitter.com/abcmakerspace/status/1769425718260158944)
+
+Caso tenha perdido essa conversa e queira assistir temos em [YouTube](https://www.youtube.com/watch?v=kOlb-M7vj9w)
+
+
+## 20/03/2024 Arduino Day 2024
+No Arduino Day 2024 do Wikilab tivemos o Emerson dando a primeira parte da aula do curso de arduino que ele leciona, no total são 15 horas, mas apresentou apenas a primeira hora e meia, uma introdução ao assunto.
+
+Divulgação do encontro de 20/03/2024 no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7175700750931476480/) | [Instagram](https://www.instagram.com/p/C4tqe2iCPSu/) | [Facebook](https://www.facebook.com/photo?fbid=921121786690117&set=a.465258912276409)
+
+Imagens do encontro de 20/03/2024 no [Instagram](https://www.instagram.com/p/C40h47IBqW3/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02wmhm89RDbgLY1A89D1FHT3zua4hRFrpx95J1NXkZ8trPSZBvtqZjB99Dk229w9cyl)
+
+Reels/vídeo curto dos preparativos para o encontro de 06/03/2024 no [Instagram](https://www.instagram.com/reel/C4y1nVLsR6r/) | [Facebook](https://www.facebook.com/abcmakerspace/videos/7034944653294503)
+
+## 27/03/2024   
+Divulgação do encontro de 27/03/2024 no Linkedin (https://www.linkedin.com/feed/update/urn:li:activity:7178682350778654721) | Instagram (https://www.instagram.com/p/C4_M65dsxpE/) | Facebook (https://www.facebook.com/photo/?fbid=926126426189653&set=a.465258912276409)
+
+Não temos imagens do encontro de 27/03/2024 
+________________________________________
+## Eventos Externos Interessantes de Março de 2024:
+
+Dias 2 a 8 - [Open Data Day](https://opendataday.org/pt_br/)
+
+Dia 7 - Lançamento CPBR16
+
+Dias 21 a 23 - [Arduino Days 2024](https://day.arduino.cc/streaming)
+
+Dia 23 - [TosConf](https://tosconf.lhc.net.br/) no [Laboratório Hacker de Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal)
+
+Dias 26 e 27 - [TDC Summit Inteligência Artificial SP](https://thedevconf.com/tdc/2024/summit-sao-paulo/)
+
+Dia 30 - [Open Hackspace Day 2024](https://wiki.hackerspaces.org/Open_Hackspace_Day_2024)
+
+________________________________________
+
+# Abril
+
+## 03/04
+Não tivemos encontro.
+
+## 11/04
+Depois de uma pausa, não tivemos divulgação do encontro de 11/04/2024, o encontro foi marcado pelo grupo no telegram.
+
+Imagens do encontro de 10/04/2024 no Instagram (https://www.instagram.com/p/C5wSiNBPUS6/?img_index=1) |[Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0267R3cZpjZUKgZtyRcQpv4ELS4Ja4DJFhbXn7RubCtzeSY25cMAaYkdKr9r9UTsnel)
+
+## 18/04
+No encontro de 18/04/2024 além da conversa fiada de sempre também tivemos entre os assuntos de conversa o Flipper Zero, Cardputer, restauro de Macbook Air, impressão 3D e claro junk food.
+
+Não tivemos divulgação do encontro de 18/04/2024, o encontro foi marcado pelo grupo no telegram.
+
+Imagens do encontro de 18/04/2024 no Instagram (https://www.instagram.com/p/C59RWRboubV/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0261jh9GDZ85iUGXJ3cfMAzDghFSqTsxgBPFSUS8SxwVJSc2zTjFsDiigxrVDbLLNTl)
+
+
+## 24/04
+Além das conversas sobre os próximos eventos e limpeza de uma das estantes metálicas (com direito a poda), também tivemos a visita do Rencka e Luciano para tirar algumas dúvidas sobre equipamentos médicos. 
+
+Divulgação do encontro de 24/04/2024 no  [Linkedin](https://www.linkedin.com/posts/abcmakerspace_nesta-quarta-24042024-vamos-limparorganizar-activity-7188674635842871296-Byrz?utm_source=share&utm_medium=member_desktop) | Instagram (https://www.instagram.com/p/C6HW0aELRIK/) | [Facebook](https://www.facebook.com/photo?fbid=946036877531941&set=a.465258912276409)
+
+Imagens do encontro de 24/04/2024 no Instagram (https://www.instagram.com/p/C6MuHb1IycY/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02AQLn2gc3GucsE4zbjvhB4fgL4edSfH5p8H7LGhC8tDeyydzrrR2RvB59qcjvVagl)
+
+Reels/vídeo curto do encontro de 24/04/2024 no Instagram (https://www.instagram.com/reel/C6Oi5HbIV3I/) | [Facebook](https://fb.watch/rKzycdqPtB/) | X/Twitter (https://twitter.com/abcmakerspace/status/1783982064120844294)
+
+________________________________________
+## Eventos Externos Interessantes de Abril de 2024:
+
+Dia 20 - [Hardware Freedom Day](https://www.softwarefreedomday.org/)
+
+Dia 24 - [FLISOL](https://flisol.info/FLISOL2023) em várias cidades da América Latina.
+________________________________________
+
+# Maio
+
+## 02/05 Na quinta devido o feriado
+Divulgação [X/Twitter https://twitter.com/abcmakerspace/status/1784670721517482263]
+
+## 08/05 Esquenta para [CryptoRave 2024](https://2024.cryptorave.org/)
+
+## 15/05 Esquenta para [19ª BSides SP](https://securitybsides.com.br/2024/)
+
+## 22/05 
+
+## 29/05 véspera de feriado
+
+________________________________________
+## Eventos Externos Interessantes de Maio de 2024:
+
+Dias 4 e 5 - [BSides San Francisco](https://bsidessf.org/) nos Estados Unidos.
+
+Dias 10 e 11 - [CryptoRave 2024](https://2024.cryptorave.org/) na [Biblioteca Mário de Andrade](https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/bma/) em São Paulo.
+
+Dias 10 e 11 - [OffensiveCon](https://www.offensivecon.org/) na Alemanha. [CFP aberto](https://cfp.offensivecon.org/offensivecon24/cfp) até 02 de abril.
+
+Dia 18 - [BSides Vix](https://bsides.vix.br/) em Vitória-ES.
+
+Dias 18 e 19 - [19ª BSides SP](https://securitybsides.com.br/2024/)
+________________________________________
+
+# Junho
+
+## 05/06 
+
+## 12/06 Especial tematico?
+
+## 19/06
+
+## 26/06
+
+________________________________________
+## Eventos Externos Interessantes de Junho de 2024:
+
+Dias 4 a 6 - [ExpoSec](https://exposec.tmp.br/)
+________________________________________
+
+
 
 
 
