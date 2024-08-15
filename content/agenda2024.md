@@ -16,31 +16,11 @@ ________________________________________
 
 
 
-# Julho
-
-## 04/07
-
-## Dias 9 a 14 - [Campus Party SP](https://brasil.campus-party.org/)
-
-## 18/07
-
-## 25/07
-
-
-
-
-________________________________________
-## Eventos Externos Interessantes de Julho de 2024:
-
-Dias 9 a 14 - [Campus Party SP](https://brasil.campus-party.org/) no Expo Center Norte em São Paulo.
-
-Dia 13 - [CajuSec](https://www.cajusec.com.br/) em Aracaju-SE.
-________________________________________
 
 # Agosto
 
 ## 01/08
-
+Algumas imagens de nosso encontro de 1º de agosto no Wikilab. [Instagram](https://www.instagram.com/p/C-L2lfNIdQR/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02Bip8CwekELxUqaRWAS4Y8aobJLWnyr78oJyic9aZMChqDmZpwmVCozawPuwzv9nSl)
 
 ## 08/08
 
@@ -195,7 +175,7 @@ Imagens do encontro de 20/03/2024 no [Instagram](https://www.instagram.com/p/C40
 Reels/vídeo curto dos preparativos para o encontro de 06/03/2024 no [Instagram](https://www.instagram.com/reel/C4y1nVLsR6r/) | [Facebook](https://www.facebook.com/abcmakerspace/videos/7034944653294503)
 
 ## 27/03/2024   
-Divulgação do encontro de 27/03/2024 no Linkedin (https://www.linkedin.com/feed/update/urn:li:activity:7178682350778654721) | Instagram (https://www.instagram.com/p/C4_M65dsxpE/) | Facebook (https://www.facebook.com/photo/?fbid=926126426189653&set=a.465258912276409)
+Divulgação do encontro de 27/03/2024 no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7178682350778654721) | [Instagram](https://www.instagram.com/p/C4_M65dsxpE/) | [Facebook](https://www.facebook.com/photo/?fbid=926126426189653&set=a.465258912276409)
 
 Não temos imagens do encontro de 27/03/2024 
 ________________________________________
@@ -223,24 +203,24 @@ Não tivemos encontro.
 ## 11/04
 Depois de uma pausa, não tivemos divulgação do encontro de 11/04/2024, o encontro foi marcado pelo grupo no telegram.
 
-Imagens do encontro de 10/04/2024 no Instagram (https://www.instagram.com/p/C5wSiNBPUS6/?img_index=1) |[Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0267R3cZpjZUKgZtyRcQpv4ELS4Ja4DJFhbXn7RubCtzeSY25cMAaYkdKr9r9UTsnel)
+Imagens do encontro de 10/04/2024 no [Instagram](https://www.instagram.com/p/C5wSiNBPUS6/?img_index=1) |[Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0267R3cZpjZUKgZtyRcQpv4ELS4Ja4DJFhbXn7RubCtzeSY25cMAaYkdKr9r9UTsnel)
 
 ## 18/04
 No encontro de 18/04/2024 além da conversa fiada de sempre também tivemos entre os assuntos de conversa o Flipper Zero, Cardputer, restauro de Macbook Air, impressão 3D e claro junk food.
 
 Não tivemos divulgação do encontro de 18/04/2024, o encontro foi marcado pelo grupo no telegram.
 
-Imagens do encontro de 18/04/2024 no Instagram (https://www.instagram.com/p/C59RWRboubV/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0261jh9GDZ85iUGXJ3cfMAzDghFSqTsxgBPFSUS8SxwVJSc2zTjFsDiigxrVDbLLNTl)
+Imagens do encontro de 18/04/2024 no [Instagram](https://www.instagram.com/p/C59RWRboubV/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid0261jh9GDZ85iUGXJ3cfMAzDghFSqTsxgBPFSUS8SxwVJSc2zTjFsDiigxrVDbLLNTl)
 
 
 ## 24/04
 Além das conversas sobre os próximos eventos e limpeza de uma das estantes metálicas (com direito a poda), também tivemos a visita do Rencka e Luciano para tirar algumas dúvidas sobre equipamentos médicos. 
 
-Divulgação do encontro de 24/04/2024 no  [Linkedin](https://www.linkedin.com/posts/abcmakerspace_nesta-quarta-24042024-vamos-limparorganizar-activity-7188674635842871296-Byrz?utm_source=share&utm_medium=member_desktop) | Instagram (https://www.instagram.com/p/C6HW0aELRIK/) | [Facebook](https://www.facebook.com/photo?fbid=946036877531941&set=a.465258912276409)
+Divulgação do encontro de 24/04/2024 no  [Linkedin](https://www.linkedin.com/posts/abcmakerspace_nesta-quarta-24042024-vamos-limparorganizar-activity-7188674635842871296-Byrz?utm_source=share&utm_medium=member_desktop) | [Instagram](https://www.instagram.com/p/C6HW0aELRIK/) | [Facebook](https://www.facebook.com/photo?fbid=946036877531941&set=a.465258912276409)
 
-Imagens do encontro de 24/04/2024 no Instagram (https://www.instagram.com/p/C6MuHb1IycY/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02AQLn2gc3GucsE4zbjvhB4fgL4edSfH5p8H7LGhC8tDeyydzrrR2RvB59qcjvVagl)
+Imagens do encontro de 24/04/2024 no [Instagram](https://www.instagram.com/p/C6MuHb1IycY/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02AQLn2gc3GucsE4zbjvhB4fgL4edSfH5p8H7LGhC8tDeyydzrrR2RvB59qcjvVagl)
 
-Reels/vídeo curto do encontro de 24/04/2024 no Instagram (https://www.instagram.com/reel/C6Oi5HbIV3I/) | [Facebook](https://fb.watch/rKzycdqPtB/) | X/Twitter (https://twitter.com/abcmakerspace/status/1783982064120844294)
+Reels/vídeo curto do encontro de 24/04/2024 no [Instagram](https://www.instagram.com/reel/C6Oi5HbIV3I/) | [Facebook](https://fb.watch/rKzycdqPtB/) | [X/Twitter](https://twitter.com/abcmakerspace/status/1783982064120844294)
 
 ________________________________________
 ## Eventos Externos Interessantes de Abril de 2024:
@@ -253,7 +233,7 @@ ________________________________________
 # Maio
 
 ## 02/05 Na quinta devido o feriado
-Divulgação [X/Twitter https://twitter.com/abcmakerspace/status/1784670721517482263]
+Divulgação [X/Twitter](https://twitter.com/abcmakerspace/status/1784670721517482263)
 
 ## 08/05 Esquenta para [CryptoRave 2024](https://2024.cryptorave.org/)
 
@@ -293,6 +273,43 @@ ________________________________________
 Dias 4 a 6 - [ExpoSec](https://exposec.tmp.br/)
 ________________________________________
 
+# Julho
+
+## 04/07
+Algumas imagens de nosso encontro de 4 de julho, onde tivemos a visita do @afcunha01 e do Nicolas no [Instagram](https://www.instagram.com/p/C9DimvyoPdh/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02W3KRWhU6LfSdB6ypuWM983EMCYpJrWKfRVwEyi2Nqsd1csDzSPmVEdCYTuhyVn2Wl)
+
+## Dias 9 a 14 - [Campus Party SP](https://brasil.campus-party.org/)
+Somos comunidade oficial da [Campus Party SP](https://brasil.campus-party.org/), confira no [Instagram](https://www.instagram.com/p/C9K8WWRIs8k/) | [Facebook](https://www.facebook.com/photo/?fbid=1000425258759769&set=a.465258912276409) e estivemos na curadoria/organização do palco open source com a Metabotix.
+
+Em 09/07/2024, estes foram os representantes do ABC Makerspace no dia da abertura da [Campus Party SP](https://brasil.campus-party.org/) , no palco open source da #cpbr16 [Instagram](https://www.instagram.com/p/C9PxfalOAaq/)
+
+[Instagram](https://www.instagram.com/p/C9cwL5CO8o7/) | [Facebook](https://www.facebook.com/photo/?fbid=1005206244948337&set=a.465258912276409)
+
+Acho que este foi o dia que mais teve ABC Makerspace no palco @dumonths + @metabotix na [Campus Party SP](https://brasil.campus-party.org/) . São @emersonwsm , Marcotti, Sickeira (vermelho), @rogdandantas , @crgimenes , Emilio, @freitasgst , @ltmonge e @chrisomoura (azul). #CPBR16 [Instagram](https://www.instagram.com/p/C9fU-1sJSQF/)
+| [Facebook](https://www.facebook.com/photo/?fbid=1005898344879127&set=a.465258912276409)
+
+@jv_pele do @gerserobotica , @ltmonge , @bigalbre.simon , @alvmaci e Sickeira do ABC Makerspace na manhã de sábado 13/07/2024 da [Campus Party SP](https://brasil.campus-party.org/) [Instagram](https://www.instagram.com/p/C9vXgbCsDnD/) | [Facebook](https://www.facebook.com/photo/?fbid=1010056057796689&set=a.465258912276409)
+
+Pessoal do ABC Makerspace na tarde de sabadão 13/07/2024 da [Campus Party SP](https://brasil.campus-party.org/) [Instagram](https://www.instagram.com/p/C9h5xdfBOE4/) | [Facebook](https://www.facebook.com/photo/?fbid=1006581914810770&set=a.465258912276409)
+
+
+## 18/07
+Divulgação [Instagram](https://www.instagram.com/p/C9cwL5CO8o7/)
+
+Nosso encontro de 18/07/2024, com maioria visitando o Wikilab pela primeira vez, entre eles o @profrobsonlopes e o @gabriel.guih que estavam na semana anterior na [Campus Party SP](https://brasil.campus-party.org/) [Instagram](https://www.instagram.com/p/C9nsl0LMxn-/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02R2bqvS18rkV7CyFGFxJbADEC6wjpvrBKMFz9NopAo4GW4GefQB2jcmPD9RDpAdctl)
+
+## 25/07
+Quem nunca visitou nosso "barraco" esta perdendo. Neste quadrimestre temos um pessoal que esta renovando. Sejam bem-vindos!  Confiram algumas imagens de nosso encontro do dia 25/07/2024 no [Instagram](https://www.instagram.com/p/C97pvjwB42N/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02DWzwQHfjtqPmbaRBVwR5xdN7fGBtUDdjFq92uWRrJfBxZ3fiavG18x9Zcgab3iKVl)
+
+
+
+________________________________________
+## Eventos Externos Interessantes de Julho de 2024:
+
+Dias 9 a 14 - [Campus Party SP](https://brasil.campus-party.org/) no Expo Center Norte em São Paulo.
+
+Dia 13 - [CajuSec](https://www.cajusec.com.br/) em Aracaju-SE.
+________________________________________
 
 
 
