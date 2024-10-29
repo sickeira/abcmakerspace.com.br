@@ -16,60 +16,9 @@ ________________________________________
 
 
 
-
-# Agosto
-
-## 01/08
-Algumas imagens de nosso encontro de 1º de agosto no Wikilab. [Instagram](https://www.instagram.com/p/C-L2lfNIdQR/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02Bip8CwekELxUqaRWAS4Y8aobJLWnyr78oJyic9aZMChqDmZpwmVCozawPuwzv9nSl)
-
-## 08/08
-
-
-## 15/08
-
-
-## 22/08
-
-
-## 29/08
-
-
-________________________________________
-## Eventos Externos Interessantes de Agosto de 2024:
-
-Dias 1 a 4 - [HackTown](https://hacktown.com.br/) em Santa Rita do Sapucaí-MG.
-
-Dias 3 a 8 - [BlackHat](https://www.blackhat.com/upcoming.html#usa) nos Estados Unidos.
-
-Dias 8 a 11 - [DefCon 32](https://defcon.org/) nos Estados Unidos.
-
-Dia 24 - [bxsec](https://bxsec.org/2024/) Santos-SP.
-________________________________________
-
-# Setembro
-
-
-
-________________________________________
-## Eventos Externos Interessantes de Setembro de 2024:
-
-Dia 14 - [BSidesJP 2024](https://www.bsidesjp.com.br/)
-
-Dias 17 a 19 - [10ª Mind The Sec](https://www.mindthesec.com.br/)
-
-Dias 25 a 27 - [Internet Security Convention - Brasil](https://www.iscbrasil.com.br/pt-br.html) em São Paulo-SP.
-________________________________________
-
-# Outubro
-
-
-
-________________________________________
-## Eventos Externos Interessantes de Outubro de 2024:
-
-________________________________________
-
 # Novembro
+07/11 Visita do Josué ([TecSec Podcast](https://linktr.ee/tecsecpodcast))
+
 
 ________________________________________
 ## Eventos Externos Interessantes de Novembro de 2024:
@@ -77,10 +26,13 @@ Dia 30 - [NullByte](https://nullbyte-con.org/) em Salvador-BA.
 ________________________________________
 
 # Dezembro
+Dia 11 ou 12 Esquenta [H2HC](https://www.h2hc.com.br/) 
 
 ________________________________________
 ## Eventos Externos Interessantes de Dezembro de 2024:
+Dias 9 a 13 - [14ª Semana de Infraestrutura da Internet no Brasil](https://semanainfra.nic.br/) São Paulo com transmissão ao vivo.
 
+Dias 14 e 15 - [H2HC](https://www.h2hc.com.br/) São Paulo-SP.
 ________________________________________
 # Janeiro
 
@@ -312,7 +264,60 @@ Dia 13 - [CajuSec](https://www.cajusec.com.br/) em Aracaju-SE.
 ________________________________________
 
 
+# Agosto
 
+## 01/08
+Algumas imagens de nosso encontro de 1º de agosto no Wikilab. [Instagram](https://www.instagram.com/p/C-L2lfNIdQR/) | [Facebook](https://www.facebook.com/abcmakerspace/posts/pfbid02Bip8CwekELxUqaRWAS4Y8aobJLWnyr78oJyic9aZMChqDmZpwmVCozawPuwzv9nSl)
+
+## 08/08
+
+
+## 15/08
+
+
+## 22/08
+
+
+## 29/08
+
+
+________________________________________
+## Eventos Externos Interessantes de Agosto de 2024:
+
+Dias 1 a 4 - [HackTown](https://hacktown.com.br/) em Santa Rita do Sapucaí-MG.
+
+Dias 3 a 8 - [BlackHat](https://www.blackhat.com/upcoming.html#usa) nos Estados Unidos.
+
+Dias 8 a 11 - [DefCon 32](https://defcon.org/) nos Estados Unidos.
+
+Dia 24 - [bxsec](https://bxsec.org/2024/) Santos-SP.
+________________________________________
+
+# Setembro
+
+
+
+________________________________________
+## Eventos Externos Interessantes de Setembro de 2024:
+
+Dia 14 - [BSidesJP 2024](https://www.bsidesjp.com.br/)
+
+Dias 17 a 19 - [10ª Mind The Sec](https://www.mindthesec.com.br/)
+
+Dias 25 a 27 - [Internet Security Convention - Brasil](https://www.iscbrasil.com.br/pt-br.html) em São Paulo-SP.
+
+
+
+________________________________________
+
+# Outubro
+
+
+
+________________________________________
+## Eventos Externos Interessantes de Outubro de 2024:
+
+________________________________________
 
 > Divulgação no [Linkedin]() | [Instagram]() | [Facebook]() | [Twitter / X]()
 
